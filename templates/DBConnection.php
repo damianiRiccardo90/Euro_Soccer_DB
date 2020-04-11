@@ -7,10 +7,10 @@
 final class DBConnection {
     private $handle;
     //TODO Mettere le credenziali d'accesso in un file config
-    private $host = "eurosoccerdb.heliohost.org";
-    private $user = "damianir_admin";
-    private $pass = "Candy_Suxxx_6969";
-    private $db_name = "damianir_eurosoccerdb";
+    private $host;
+    private $user;
+    private $pass;
+    private $db_name;
 
     public static function getInstance() {
         static $instance = null;
