@@ -1,0 +1,1193 @@
+ID_ST,Squadra,Ruolo,Nome,Nascita,Nazione
+1,8600,Direttore Generale,Luigi Infurna,1962-01-17,Italia
+2,8533,Responsabile Settore Giovanile,Marco Fioretto,1973-06-01,Italia
+3,8600,Direttore Generale,Stefano Campoccia,1960-10-29,Italia
+4,9857,Presidente,Davide Morabito,1970-07-02,Italia
+5,8636,Direttore Esecutivo,Liu Jun,1976-12-16,Cina
+6,9804,Allenatore,Gabriel Raimondi,1977-09-27,Argentina
+7,9857,Analista Prestazionale,Mauro Citzia,1957-10-01,Italia
+8,8533,Fisioterapista,Alessandro Verzini,1979-05-22,Italia
+9,8534,Preparatore Atletico,Giuseppe Mazza,1987-06-04,Italia
+10,9857,Preparatore dei Portieri,Luca Bucci,1969-03-13,Italia
+11,8534,Allenatore,Giampiero Pavone,1974-03-23,Italia
+12,8524,Fisioterapista,Alessio Gurioni,1988-04-07,Italia
+13,8524,Osservatore,Marco Ogliari,1973-12-24,Italia
+14,8533,Allenatore,Andrea Tonelli,1974-04-17,Italia
+15,8524,Osservatore,Marcello Rho,1967-10-19,Italia
+16,8524,Osservatore,Emiliano De Juliis,1971-02-08,Italia
+17,8540,Direttore Generale,Sandro Porchia,1977-06-14,Italia
+18,8524,Fisioterapista,Simone Campanini,1972-02-07,Italia
+19,8534,Allenatore,Gabriele Innocenti,1978-01-21,Italia
+20,8534,Assistente Manager,Salvatore Russo,1971-07-12,Italia
+21,9857,Assistente Manager,Luca Gotti,1967-09-13,Italia
+22,8524,Direttore Generale,Gianpaolo Bellini,1980-03-27,Italia
+23,8540,Osservatore,Mario Faccenda,1960-11-23,Italia
+24,8636,Direttore Generale,Zhang Kangyang,1991-12-21,Cina
+25,8636,Fisioterapista,Andrea Galli,1970-12-07,Italia
+26,8524,Fisioterapista,Michele Locatelli,1986-10-01,Italia
+27,9857,Direttore Generale,Roberto Tassi,1959-01-20,Italia
+28,8540,Preparatore Atletico,Marcattilio Marcattilii,1973-06-17,Italia
+29,8540,Assistente Manager,Davide Possanzini,1976-02-09,Italia
+30,8524,Allenatore,Mauro Fumagalli,1978-08-21,Italia
+31,8600,Fisioterapista,Dario Troia,1986-05-27,Italia
+32,8540,Allenatore,Pasquale Catalano,1971-11-29,Italia
+33,8533,Osservatore,Gianmario Specchia,1976-10-12,Italia
+34,9857,Allenatore,Mario Bortolazzi,1965-01-10,Italia
+35,8524,Direttore Generale,Andrea Lazzaroni,1977-05-04,Italia
+36,8600,Preparatore Atletico,Alberto Botter,1979-05-29,Italia
+37,8534,Allenatore,Alcide Di Salvatore,1978-06-18,Italia
+38,8600,Preparatore Atletico,Enrico Moro,1990-01-18,Italia
+39,9857,Preparatore Atletico,Stefano Pasquali,1982-05-10,Italia
+40,8524,Osservatore,Raffaello Bonifaccio,1942-01-30,Italia
+41,10233,Osservatore,Marco Rossi,1978-04-01,Italia
+42,8540,Preparatore Atletico,Giuseppe Puleo,1959-06-20,Italia
+43,8534,Direttore Generale,Graziano Billocci,1950-06-06,Italia
+44,10233,Direttore Generale,Diodato Abagnara,1940-07-01,Italia
+45,9804,Assistente Manager,Attilio Lombardo,1966-01-06,Italia
+46,8540,Manager,Diego Lopez,1974-08-22,Uruguay
+47,9804,Allenatore,Luis Rodoni,1950-11-29,Cile
+48,8540,Direttore Generale,Guglielmo Micciche,1954-04-01,Italia
+49,9857,Direttore Generale,Carlo Caliceti,1964-02-07,Italia
+50,10233,Osservatore,Attilio Arnese,1968-07-07,Italia
+51,9882,Allenatore Primavera,Umberto Borino,1955-12-21,Italia
+52,9857,Osservatore,Antonio Mazzagatti,1960-02-07,Italia
+53,10233,Allenatore,Alberto Corradi,1974-06-18,Italia
+54,10233,Osservatore,Angelo Aiello,1975-07-22,Italia
+55,9882,Allenatore,Alessandro Rollero,1965-12-08,Italia
+56,9804,Capo Osservatore,Andrea Fabbrini,1974-11-29,Italia
+57,10233,Direttore Generale,Gianni Blondet,1952-07-17,Italia
+58,8524,Preparatore Atletico,Domenico Borelli,1959-04-21,Italia
+59,10233,Osservatore,Maurizio Ghigliotti,1956-06-14,Italia
+60,9804,Fisioterapista,Silvio Fortunato,1964-11-02,Italia
+61,8600,Allenatore,Lorenzo Segre,1972-07-20,Italia
+62,8524,Preparatore Atletico,Andrea Riboli,1986-05-02,Italia
+63,8524,Osservatore,Verter Schenoni,1974-05-20,Italia
+64,10233,Fisioterapista,Luca Crespi,1990-01-30,Italia
+65,9804,Allenatore,Miroslav Tanjga,1964-07-22,Serbia
+66,10233,Osservatore,Mamede,1974-02-24,Portogallo
+67,8540,Preparatore Atletico,Vincenzo Teresa,1962-08-08,Italia
+68,8533,Direttore Generale,Michele Sebastiani,1978-10-01,Italia
+69,10233,Osservatore,Umberto Fabozzi,1975-03-16,Italia
+70,10233,Fisioterapista,Federico Campofiorito,1987-03-28,Italia
+71,8533,Allenatore,Carlo Segattini,1972-03-23,Italia
+72,8600,Direttore Generale,Giuliana Pozzo,1973-03-30,Italia
+73,9804,Fisioterapista,Andrea Orvieto,1975-11-07,Italia
+74,8636,Allenatore,Davide Lucarelli,1963-03-14,Italia
+75,9882,Osservatore,Damiano Moscardi,1974-04-15,Italia
+76,9857,Direttore Generale,Marco Di Vaio,1976-07-15,Italia
+77,8534,Manager,Giovanni Martusciello,1971-08-19,Italia
+78,9857,Osservatore,Pierluigi Di Gia,1968-03-22,Italia
+79,8543,Allenatore,Mario Cecchi,1969-07-13,Italia
+80,8534,Responsabile Settore Giovanile,Marco Bertelli,1972-01-16,Italia
+81,8600,Responsabile Settore Giovanile,Gianfranco Cinello,1962-04-08,Italia
+82,10233,Fisioterapista,Fabio Della Monica,1969-11-09,Italia
+83,8636,Assistente Manager,Giacomo Murelli,1964-03-29,Italia
+84,9804,Preparatore Atletico,Paolo Solustri,1969-12-10,Italia
+85,8600,Direttore Generale,Alberto Rigotto,1974-08-30,Italia
+86,9882,Direttore Generale,Massimo Ienca,1966-10-14,Italia
+87,8540,Direttore Generale,Alessio Cracolici,1984-05-04,Italia
+88,8540,Osservatore,Raffaele Rubino,1978-01-09,Italia
+89,8600,Osservatore,Domenico Fracchiolla,1984-01-05,Italia
+90,9804,Direttore Generale,Luca Castellazzi,1975-07-19,Italia
+91,9882,Allenatore,Fabio Micarelli,1965-03-07,Italia
+92,8533,Direttore Generale,Marco Pacione,1963-07-27,Italia
+93,9882,Analista Tattico,Sergio Spalla,1974-08-30,Peru
+94,9882,Fisioterapista,Luca Nicola Traggiai,1977-10-31,Italia
+95,8533,Capo Osservatore,Lorenzo Balestro,1954-06-23,Italia
+96,10233,Allenatore,Marco Stellatelli,1951-03-22,Italia
+97,9804,Allenatore,Paolo Gola,1969-10-17,Italia
+98,8540,Allenatore,Lorenzo Todaro,1978-01-16,Italia
+99,9804,Preparatore dei Portieri,Paolo Di Sarno,1968-06-01,Italia
+100,8533,Assistente Manager,Christian Maraner,1970-04-20,Italia
+101,8636,Preparatore Atletico,Francesco Perondi,1954-08-17,Italia
+102,8533,Preparatore dei Portieri,Lorenzo Squizzi,1974-06-20,Italia
+103,10233,Preparatore dei Portieri,Alessio Scarpi,1973-04-19,Italia
+104,10233,Assistente Manager,Stjepan Ostojic,1975-05-07,Croazia
+105,9857,Allenatore,Renato Olive,1971-04-06,Italia
+106,8534,Direttore Esecutivo,Francesco Ghelfi,1955-04-27,Italia
+107,9857,Direttore Esecutivo,Claudio Fenucci,1960-11-09,Italia
+108,8600,Direttore Sportivo,Nereo Bonato,1965-02-26,Italia
+109,9857,Preparatore Atletico,Giovanni Andreini,1966-11-05,Italia
+110,8524,Capo Fisioterapista,Marcello Ginami,1972-04-02,Italia
+111,8534,Direttore Generale,Stefano Calistri,1956-10-20,Italia
+112,8636,Preparatore Atletico,Matteo Osti,1971-03-18,Italia
+113,9882,Osservatore,Dejan Vasiljev,1964-06-22,Serbia
+114,9882,Osservatore,Stefano Ghisleni,1967-09-16,Italia
+115,9804,Responsabile Settore Giovanile,Massimo Bava,1969-05-04,Italia
+116,9857,Fisioterapista,Luca Govoni,1975-07-02,Italia
+117,8533,Osservatore,Luca Zaffanella,1977-09-21,Italia
+118,9882,Fisioterapista,Maurizio Lo Biundo,1970-03-21,Italia
+119,10233,Osservatore,Gianfranco Riccardi,1969-06-12,Italia
+120,9857,Fisioterapista,Carmelo Sposato,1974-12-15,Italia
+121,9804,Fisioterapista,Eugenio Piccoli,1988-11-28,Italia
+122,8540,Osservatore,Giancarlo Pariscenti,1980-05-25,Italia
+123,8600,Fisioterapista,Giovanni Piani,1988-01-03,Italia
+124,9857,Osservatore,Tommaso Fini,1986-07-21,Italia
+125,9857,Osservatore,Carlo Jacomuzzi,1949-05-22,Italia
+126,9882,Direttore Generale,Marco Benucci,1972-10-30,Italia
+127,8534,Allenatore,Marcello Manzuoli,1970-10-23,Italia
+128,8524,Responsabile Settore Giovanile,Maurizio Costanzi,1957-08-12,Italia
+129,8540,Presidente,Maurizio Zamparini,1941-06-09,Italia
+130,9882,Osservatore,Fabio Calcaterra,1965-05-13,Italia
+131,8534,Allenatore,Giovanni Falai,1979-08-24,Italia
+132,8533,Fisioterapista,Antonio Agostini,1960-06-13,Italia
+133,8524,Preparatore dei Portieri,Massimo Biffi,1964-01-24,Italia
+134,9857,Proprietario,Joey Saputo,1964-09-25,Canada
+135,9804,Capo Allenatore Primavera,Gianfranco Albertini,1966-03-22,Italia
+136,8534,Fisioterapista,Paolo Marrucci,1968-05-06,Italia
+137,9882,Preparatore dei Portieri,Andrea Sardini,1967-11-04,Italia
+138,8540,Preparatore dei Portieri,Vincenzo Sicignano,1974-07-08,Italia
+139,9882,Responsabile Settore Giovanile,Giovanni Invernizzi,1963-08-22,Italia
+140,10233,Capo Osservatore,Omar Milanetto,1975-11-30,Italia
+141,8600,Assistente Manager,Giuseppe Carillo,1965-05-24,Italia
+142,8534,Direttore Sportivo,Pietro Accardi,1982-09-12,Italia
+143,8600,Osservatore,Riccardo Guffanti,1957-11-04,Italia
+144,8540,Osservatore,Michele Trionfante,1982-06-30,Italia
+145,8534,Osservatore,Massimo Bresciani,1960-01-04,Italia
+146,8533,Direttore Generale,Elisabetta Lenotti,1971-09-16,Italia
+147,9804,Osservatore,Silvano Benedetti,1965-10-15,Italia
+148,9882,Osservatore,Gianfranco Luporini,1961-12-14,Italia
+149,8524,Capo Osservatore,Gabriele Zamagna,1963-10-21,Italia
+150,8600,Osservatore,Ernesto Varnier,1946-02-27,Italia
+151,8540,Preparatore Atletico,Andrea Rinaldi,1963-02-20,Italia
+152,8524,Analista Prestazionale,Francesco Vaccariello,1980-09-08,Italia
+153,9857,Allenatore,Luca Bini,1978-06-21,Italia
+154,9882,Proprietario,Vanessa Ferrero,1973-02-19,Italia
+155,9882,Direttore Generale,Gaetano Sannolo,1972-05-06,Italia
+156,8600,Fisioterapista,Pietro Tobia Baldassi,1991-06-11,Italia
+157,8540,Direttore Sportivo,Nicola Salerno,1968-03-17,Italia
+158,8636,Allenatore,Walter Samuel,1978-03-22,Argentina
+159,8533,Direttore Generale,Luca Faccioli,1964-07-20,Italia
+160,8600,Manager,Luigi Delneri,1950-08-23,Italia
+161,8600,Preparatore Atletico,Fabrizio Tafani,1969-04-20,Italia
+162,8543,Allenatore,Ferruccio Cerasaro,1976-05-25,Italia
+163,8564,Allenatore,Nicola Caccia,1970-04-10,Italia
+164,8524,Presidente,Antonio Percassi,1953-06-09,Italia
+165,8534,Allenatore,Andrea Cupi,1976-01-27,Italia
+166,8540,Capo Osservatore,Giuseppe Corti,1957-02-03,Italia
+167,9882,Analista Prestazionale,Massimo Catalano,1974-12-29,Italia
+168,8540,Capo Fisioterapista,Francesco Chiarenza,1978-07-31,Italia
+169,9882,Preparatore Atletico,Roberto Peressutti,1967-01-14,Italia
+170,8600,Osservatore,Rafa Monfort,1963-05-26,Spagna
+171,8540,Direttore Generale,Lorenzo Farris,1975-12-10,Italia
+172,7943,Direttore Generale,Adriana Spazzoli,1948-07-14,Italia
+173,8533,Osservatore,Cristiano Cantarelli,1966-10-24,Italia
+174,8600,Fisioterapista,Gabriele Mattiussi,1990-01-06,Italia
+175,8543,Preparatore Atletico,Fabio Ripert,1980-02-13,Italia
+176,8543,Manager,Simone Inzaghi,1976-04-05,Italia
+177,10233,Allenatore,Roberto Murgita,1968-11-11,Italia
+178,9882,Assistente Manager,Francesco Conti,1962-08-30,Italia
+179,8600,Capo Allenatore Primavera,Aldo Passelli,1973-06-02,Italia
+180,8534,Capo Allenatore Primavera,Francesco Ammannati,1956-01-02,Italia
+181,9857,Preparatore Atletico,Francesco Chinnici,1962-01-10,Italia
+182,7943,Fisioterapista,Gennady Belenky,1955-12-01,Kazakistan
+183,7943,Preparatore dei Portieri,Rino Gandini,1960-09-19,Italia
+184,8534,Fisioterapista,Fabrizio Calattini,1965-03-07,Italia
+185,7943,Allenatore,Danilo Pierini,1954-10-01,Italia
+186,9804,Direttore Generale,Antonio Comi,1964-07-26,Italia
+187,8534,Preparatore Atletico,Francesco Bertini,1967-02-21,Italia
+188,8540,Direttore Generale,Roberto Felicori,1975-12-07,Italia
+189,8524,Direttore Generale,Umberto Marino,1960-11-16,Italia
+190,10233,Direttore Esecutivo,Alessandro Zarbano,1969-01-17,Italia
+191,9882,Preparatore Atletico,Agostino Tibaudi,1965-08-06,Italia
+192,8533,Capo Allenatore Primavera,Giuliano Corradini,1968-05-08,Italia
+193,8600,Analista Prestazionale,Michele Turloni,1981-08-29,Italia
+194,8524,Direttore Generale,Roberto Spagnolo,1951-08-24,Italia
+195,9882,Fisioterapista,Mauro Doimi,1979-10-07,Italia
+196,8533,Direttore Generale,Michele Cordioli,1946-10-27,Italia
+197,8600,Preparatore Atletico,Andrea D' Urso,1970-01-01,Italia
+198,8534,Osservatore,Giovanni Giovarruscio,1970-04-04,Italia
+199,8540,Capo Allenatore Primavera,Giuseppe Francavilla,1943-11-17,Italia
+200,8540,Osservatore,Francesco Cutro,1979-12-30,Italia
+201,7943,Allenatore,Marco Riggio,1976-11-15,Italia
+202,8543,Fisioterapista,Christian Marsella,1972-08-26,Italia
+203,8543,Fisioterapista,Vittorio Raieta,1976-05-24,Italia
+204,8543,Assistente Manager,Massimiliano Farris,1971-02-24,Italia
+205,10233,Preparatore Atletico,Alessandro Pilati,1966-01-09,Italia
+206,7943,Direttore Generale,Sergio Sassi,1957-11-01,Italia
+207,8533,Osservatore,Andrea Bogazzi,1980-05-13,Italia
+208,8533,Allenatore,Ivan Moretto,1970-05-17,Italia
+209,8533,Manager,Rolando Maran,1963-07-14,Italia
+210,8600,Allenatore,Paolo Miano,1961-01-20,Italia
+211,8600,Fisioterapista,Alessio Lovisetto,1979-01-14,Italia
+212,8600,Preparatore Atletico,Alessandro De Guidi,1984-07-22,Italia
+213,9882,Capo Fisioterapista,Roberto Cappannelli,1972-05-28,Italia
+214,8534,Osservatore,Filiberto Giampa,1960-11-14,Italia
+215,8534,Osservatore,Antonio Lentisco,1975-06-13,Italia
+216,8534,Osservatore,Paolo Mussi,1970-06-22,Italia
+217,9857,Direttore Sportivo,Riccardo Bigon,1971-06-26,Italia
+218,8524,Osservatore,Valentino Angeloni,1967-05-05,Italia
+219,8534,Capo Fisioterapista,Simone Capaccioli,1971-05-25,Italia
+220,7943,Fisioterapista,Davide Valle,1970-10-25,Italia
+221,10233,Direttore Generale,Santo Bignone,1971-05-19,Italia
+222,9882,Osservatore,Joao Mario Reigota,1969-11-20,Brasile
+223,8686,Allenatore,Alessandro Pane,1967-11-20,Italia
+224,8534,Preparatore Atletico,Claudio Selmi,1956-07-29,Italia
+225,8534,Direttore Generale,Marcello Carli,1960-08-26,Italia
+226,9857,Capo Fisioterapista,Luca Ghelli,1965-12-05,Italia
+227,7943,Preparatore Atletico,Franco Giammartino,1970-12-10,Italia
+228,8533,Preparatore Atletico,Luigi Posenato,1980-09-29,Italia
+229,8686,Fisioterapista,Alessandro Cardini,1985-03-07,Italia
+230,7943,Fisioterapista,Nicola Daprile,1976-03-08,Italia
+231,9882,Osservatore,Igor Bortoluzzi,1969-04-02,Italia
+232,7943,Assistente Manager,Francesco Tomei,1972-04-10,Italia
+233,8600,Osservatore,Roberto Policano,1964-02-19,Italia
+234,9857,Capo Allenatore Primavera,Gianni Nanni,1954-03-12,Italia
+235,8533,Direttore Generale,Giuseppe Campedelli,1937-01-18,Italia
+236,8524,Direttore Sportivo,Giovanni Sartori,1957-03-31,Italia
+237,10233,Direttore Generale,Nazario Pignotti,1975-05-31,Italia
+238,9875,Responsabile Settore Giovanile,Gianluca Grava,1977-03-07,Italia
+239,8600,Preparatore Atletico,Alberto Andorlini,1952-07-23,Italia
+240,10233,Capo Fisioterapista,Paolo Barbero,1960-06-07,Italia
+241,8534,Preparatore dei Portieri,Mauro Marchisio,1959-12-17,Italia
+242,7943,Direttore Generale,Massimiliano Fusani,1979-07-17,Italia
+243,8524,Direttore Esecutivo,Luca Percassi,1980-08-25,Italia
+244,10233,Responsabile Settore Giovanile,Michele Sbravati,1965-12-06,Italia
+245,7943,Direttore Generale,Guido Angelozzi,1955-02-05,Italia
+246,10233,Presidente,Enrico Preziosi,1957-02-18,Italia
+247,8686,Allenatore Primavera,Luca Franceschi,1962-03-13,Italia
+248,8524,Assistente Manager,Tullio Gritti,1958-10-20,Italia
+249,9857,Direttore Generale,Luca Befani,1965-05-09,Italia
+250,9857,Allenatore,Giovanbattista Sisca,1963-10-25,Italia
+251,10233,Capo Allenatore Primavera,Pietro Gatto,1965-08-10,Italia
+252,8524,Allenatore,Marco Bruzzone,1973-09-11,Italia
+253,8686,Direttore Generale,Mauro Baldissoni,1970-04-14,Italia
+254,10233,Fisioterapista,Matteo Perasso,1985-03-17,Italia
+255,7943,Osservatore,Stefano Cattani,1974-10-06,Italia
+256,8540,Allenatore,Cristian Francavilla,1975-09-11,Italia
+257,7943,Allenatore,Paolo Minafra,1970-11-15,Italia
+258,8686,Osservatore,Marco Bastianelli,1967-04-29,Italia
+259,8600,Capo Fisioterapista,Carlos Moreno,1980-05-28,Spagna
+260,9857,Responsabile Settore Giovanile,Daniele Corazza,1969-08-27,Italia
+261,7943,Capo Fisioterapista,Andrea Acciarri,1967-07-07,Italia
+262,8686,Responsabile Settore Giovanile,Massimo Tarantino,1971-05-20,Italia
+263,10233,Osservatore,Enrico Gazzano,1974-04-19,Italia
+264,8535,Fisioterapista,Luca Lonero,1985-11-10,Italia
+265,9875,Allenatore,Luigi Nocentini,1978-02-28,Italia
+266,8535,Assistente Manager,Victor Sanchez,1981-11-11,Spagna
+267,8534,Presidente,Fabrizio Corsi,1961-03-26,Italia
+268,10233,Osservatore,Carlo Taldo,1972-01-12,Italia
+269,7943,Allenatore,Franco Combi,1950-03-04,Italia
+270,8533,Presidente,Luca Campedelli,1968-10-24,Italia
+271,8533,Preparatore Atletico,Roberto De Bellis,1969-12-28,Italia
+272,8636,Osservatore,Giuseppe Baresi,1958-02-07,Italia
+273,7943,Preparatore Atletico,Nicandro Vizoco,1978-07-24,Italia
+274,8524,Capo Allenatore Primavera,Paolo Amaddeo,1957-09-27,Italia
+275,7943,Direttore Generale,Andrea Fabris,1975-03-28,Italia
+276,9875,Preparatore Atletico,Davide Ranzato,1982-02-17,Italia
+277,8686,Preparatore dei Portieri,Marco Savorani,1965-03-31,Italia
+278,9857,Direttore Generale,Giuseppe Gazzoni Frascara,1935-10-15,Italia
+279,8636,Osservatore,Francesco Sotera,1962-11-17,Italia
+280,9882,Allenatore,Salvatore Foti,1988-08-08,Italia
+281,9804,Allenatore,Emilio De Leo,1978-01-18,Italia
+282,9875,Osservatore,Gianfranco Cicchetti,1980-05-21,Italia
+283,8600,Osservatore,Simone Roia,1971-03-07,Italia
+284,8636,Allenatore,Alessandro Corsini,1980-02-20,Italia
+285,7943,Direttore Esecutivo,Giovanni Carnevali,1965-05-06,Italia
+286,7943,Osservatore,Francesco Cattani,1971-08-17,Italia
+287,8533,Osservatore,Fabio D' Amico,1972-02-21,Italia
+288,8686,Allenatore Primavera,Ed Lippie,1973-04-13,Stati Uniti
+289,7943,Preparatore dei Portieri,Fabrizio Lorieri,1964-02-11,Italia
+290,7943,Responsabile Settore Giovanile,Francesco Palmieri,1967-09-24,Italia
+291,8564,Assistente Manager,Daniele Russo,1973-07-03,Italia
+292,8533,Capo Fisioterapista,Alfonso Casano,1965-02-23,Italia
+293,9804,Preparatore Atletico,Antonio Bovenzi,1966-02-08,Italia
+294,8564,Osservatore,Giovanni Lorini,1957-03-14,Italia
+295,8686,Osservatore,Federico Balzaretti,1981-12-06,Italia
+296,9882,Direttore Sportivo,Carlo Osti,1958-01-20,Italia
+297,8636,Osservatore,Gianfranco Matteoli,1959-04-21,Italia
+298,8540,Osservatore,Fabrizio Giaconia,1979-06-10,Italia
+299,8564,Preparatore Atletico,Emanuele Marra,1984-04-30,Italia
+300,8686,Fisioterapista,Marco Ferrelli,1980-04-28,Italia
+301,9804,Allenatore,Renato Baldi,1978-07-24,Italia
+302,8543,Osservatore,Vincenzo Iacoviello,1977-04-24,Italia
+303,9882,Presidente,Massimo Ferrero,1951-08-05,Italia
+304,9882,Manager,Marco Giampaolo,1967-08-02,Italia
+305,8540,Responsabile Settore Giovanile,Dario Baccin,1976-08-27,Italia
+306,7943,Direttore Sportivo,Giovanni Rossi,1966-05-24,Italia
+307,9875,Osservatore,Luigi Caffarelli,1962-07-07,Italia
+308,8564,Osservatore,Pierino Prati,1946-12-13,Italia
+309,8636,Osservatore,Felice Natalino,1992-03-24,Italia
+310,9875,Preparatore Atletico,Davide Losi,1986-12-05,Italia
+311,8564,Osservatore,Otello Di Remigio,1961-12-22,Italia
+312,8686,Direttore Generale,Alex Zecca,1961-01-11,Stati Uniti
+313,8564,Osservatore,Serginho,1971-06-27,Brasile
+314,8600,Presidente,Franco Soldati,1959-09-30,Italia
+315,9804,Direttore Sportivo,Gianluca Petrachi,1969-01-14,Italia
+316,8535,Allenatore,Giorgio Galanti,1948-02-08,Italia
+317,7943,Preparatore Atletico,Maurizio Fanchini,1971-01-22,Italia
+318,7943,Allenatore,Stefano AS Romano,1982-08-10,Italia
+319,8636,Osservatore,Corrado Verdelli,1963-09-30,Italia
+320,8600,Osservatore,Geronimo Barbadillo,1954-09-29,Peru
+321,7943,Presidente,Carlo Rossi,1950-06-03,Italia
+322,9804,Presidente,Urbano Cairo,1957-04-13,Italia
+323,8524,Manager,Gian Piero Gasperini,1958-01-26,Italia
+324,8524,Osservatore,Giancarlo Finardi,1954-08-04,Italia
+325,8524,Preparatore Atletico,Luca Trucchi,1965-09-23,Italia
+326,9875,Direttore Generale,Alberto Vallefuoco,1979-01-22,Italia
+327,8636,Allenatore,Daniele Casalini,1960-07-12,Italia
+328,9882,Direttore Generale,Giorgio Ajazzone,1954-05-01,Italia
+329,8564,Osservatore,Enrico Paresce,1986-03-22,Italia
+330,9882,Allenatore,Gian Edilio Solimei,1951-06-10,Italia
+331,9882,Allenatore,Claudio Mazzola,1956-03-18,Italia
+332,8600,Capo Osservatore,Andrea Carnevale,1961-01-12,Italia
+333,8535,Allenatore,Manuel Cordeiro,1983-08-26,Portogallo
+334,8543,Fisioterapista,Massimo AS Romano Papola,1975-11-07,Italia
+335,9875,Direttore Generale,Jacqueline Marie Baudit,1952-07-14,Svizzera
+336,8564,Direttore Generale,Vittorio Mentana,1956-02-17,Italia
+337,8600,Direttore Generale,Franco Collavino,1974-03-14,Italia
+338,10233,Direttore Generale,Fabrizio Preziosi,1981-11-25,Italia
+339,8533,Direttore Sportivo,Luca Nember,1972-03-15,Italia
+340,8600,Osservatore,Gabriel Wainer,1977-04-03,Argentina
+341,8564,Osservatore,Silvio Broli,1968-02-04,Italia
+342,9882,Osservatore,Riccardo Pecini,1975-05-09,Italia
+343,9804,Preparatore Atletico,Vincenzo Manzi,1965-11-18,Italia
+344,8564,Allenatore,Simone Montanaro,1972-05-20,Italia
+345,9804,Allenatore,Davide Lamberti,1987-09-08,Italia
+346,7943,Proprietario,Giorgio Squinzi,1943-05-18,Italia
+347,8543,Direttore Generale,Marco Moschini,1958-08-29,Italia
+348,7943,Direttore Generale,Gerardo Esposito,1979-06-29,Italia
+349,8636,Presidente,Erick Thohir,1970-05-30,Indonesia
+350,8686,Fisioterapista,Marco Esposito,1987-03-15,Italia
+351,8636,Allenatore,Michele Santoni,1980-08-19,Italia
+352,8535,Fisioterapista,Filippo Nannelli,1984-12-29,Italia
+353,8636,Direttore Generale,Milly Moratti,1946-12-27,Italia
+354,8564,Osservatore,Paolo Rota,1981-08-09,Italia
+355,8543,Allenatore,Massimo Razzano,1952-12-12,Italia
+356,7943,Analista Prestazionale,Ermanno Rampinini,1967-05-08,Italia
+357,8535,Direttore Sportivo,Carlos Freitas,1966-06-22,Portogallo
+358,8636,Osservatore,Benoit Cauet,1969-05-02,Francia
+359,9875,Allenatore,Marco Ianni,1982-04-21,Italia
+360,8600,Proprietario,Giampaolo Pozzo,1941-05-21,Italia
+361,8535,Fisioterapista,Stefano Dainelli,1964-05-18,Italia
+362,8636,Osservatore,Antonio D' Ottavio,1980-06-10,Italia
+363,9882,Preparatore Atletico,Stefano Rapetti,1976-02-24,Italia
+364,8543,Osservatore,Giuseppe Lupo,1974-05-03,Italia
+365,9882,Capo Osservatore,Fabio Papagni,1967-03-18,Italia
+366,8600,Preparatore dei Portieri,Alex Brunner,1973-12-08,Italia
+367,9804,Manager,Sinisa Mihajlovic,1969-02-20,Serbia
+368,8636,Preparatore Atletico,Andrea Scanavino,1973-03-03,Italia
+369,9875,Allenatore,Simone Bonomi,1980-11-08,Italia
+370,8686,Osservatore,Domenico Zinfollino,1973-01-04,Italia
+371,8564,Direttore Esecutivo,Barbara Berlusconi,1984-07-30,Italia
+372,8686,Allenatore Primavera,Valerio Flammini,1975-03-09,Italia
+373,8636,Direttore Generale,Alberto Celario,1970-08-06,Italia
+374,8564,Analista Tattico,Riccardo Manno,1977-11-29,Italia
+375,8564,Osservatore,Massimo Radicchi,1968-10-19,Italia
+376,9804,Direttore Generale,Giuseppe Cairo,1922-06-10,Italia
+377,8543,Osservatore,Matteo Vairo,1988-03-13,Italia
+378,8564,Allenatore,Marco Freschi,1973-08-11,Italia
+379,8543,Direttore Sportivo,Igli Tare,1973-07-25,Albania
+380,8636,Osservatore,Luigi Petrone,1977-06-21,Italia
+381,8543,Responsabile Settore Giovanile,Joop Lensen,1962-01-18,Olanda
+382,8543,Preparatore Atletico,Alessandro Fonte,1973-11-29,Italia
+383,8543,Allenatore,Ivo Pulcini,1946-01-12,Italia
+384,8686,Osservatore,Marco Albergati,1969-09-17,Italia
+385,10233,Osservatore,Sergio Scabini,1978-03-29,Italia
+386,8636,Fisioterapista,Ramon Cavallin,1985-01-10,Italia
+387,8636,Proprietario,Steven Zhang,1972-01-23,Italia
+388,8564,Osservatore,Francesco Bega,1974-10-26,Italia
+389,8535,Fisioterapista,Maurizio Fagorzi,1959-11-26,Italia
+390,8564,Osservatore,Stefano Todeschini,1982-08-02,Italia
+391,8564,Direttore Generale,Paolo Berlusconi,1949-12-06,Italia
+392,8686,Preparatore Atletico,Vito Scala,1963-12-30,Italia
+393,8636,Osservatore,Toni Lima,1970-09-22,Andorra
+394,8564,Osservatore,Aldo Bet,1949-03-26,Italia
+395,9875,Direttore Generale,Alessandro Formisano,1967-11-18,Italia
+396,8535,Preparatore Atletico,Damir Blokar,1981-12-20,Serbia
+397,8686,Allenatore Primavera,Manrico Ferrari,1970-01-16,Italia
+398,8564,Direttore Sportivo,Rocco Maiorino,1982-03-03,Italia
+399,9804,Capo Fisioterapista,Massimiliano Greco,1973-03-12,Italia
+400,8600,Allenatore,Enrico Iodice,1984-06-16,Italia
+401,8535,Preparatore dei Portieri,Alejandro Rosalen,1977-02-25,Spagna
+402,8636,Direttore Generale,Javier Zanetti,1973-08-10,Argentina
+403,8543,Direttore Generale,Angelo Peruzzi,1970-02-16,Italia
+404,8564,Osservatore,Angelo Carbone,1968-03-23,Italia
+405,8564,Osservatore,Salvatore Monaco,1972-12-28,Italia
+406,8543,Direttore Generale,Armando Calveri,1979-08-29,Italia
+407,10233,Manager,Andrea Mandorlini,1960-07-17,Italia
+408,8636,Osservatore,Franco Fontana,1945-03-24,Italia
+409,8564,Osservatore,Valerio Leto,1970-11-29,Italia
+410,8636,Direttore Generale,Giovanni Gardini,1964-10-10,Italia
+411,7943,Manager,Eusebio Di Francesco,1969-09-08,Italia
+412,9875,Fisioterapista,Giovanni D' Avino,1966-12-22,Italia
+413,8636,Osservatore,Adelio Moro,1951-04-14,Italia
+414,9885,Osservatore,Pablo Longoria,1986-09-30,Spagna
+415,9875,Direttore Generale,Luigi De Laurentiis,1975-01-05,Italia
+416,9875,Fisioterapista,Marco Di Lullo,1984-09-15,Italia
+417,8535,Direttore Esecutivo,Sandro Mencucci,1961-07-18,Italia
+418,9875,Assistente Manager,Francesco Calzona,1968-10-24,Italia
+419,8535,Direttore Generale,Gian Luca Baiesi,1962-06-05,Italia
+420,8686,Preparatore Atletico,Marcello Iaia,1979-11-01,Italia
+421,8535,Allenatore,Jacopo Giuliattini,1975-01-01,Italia
+422,7943,Capo Allenatore Primavera,Claudio Pecci,1976-05-26,Italia
+423,8636,Fisioterapista,Andrea Belli,1979-08-24,Italia
+424,8686,Direttore Generale,Manolo Zubiria,1977-07-29,Spagna
+425,8543,Direttore Generale,Stefan Derkum,1970-10-08,Olanda
+426,8543,Allenatore,Angelo Pulcini,1950-10-05,Italia
+427,8543,Allenatore,Angelo Ventura,1969-09-21,Italia
+428,8686,Allenatore,Daniele Baldini,1964-02-21,Italia
+429,9875,Direttore Generale,Giovanni Paolo De Matteis,1970-06-07,Italia
+430,8564,Analista Prestazionale,Daniele Tognaccini,1964-02-25,Italia
+431,8564,Allenatore,Giuseppe Irrera,1961-12-06,Italia
+432,8636,Osservatore,Salvatore Cerrone,1960-01-02,Italia
+433,9875,Preparatore dei Portieri,Massimo Nenci,1965-01-18,Italia
+434,9875,Preparatore Atletico,Francesco Sinatti,1985-07-04,Italia
+435,9804,Direttore Generale,Pantaleo Longo,1976-10-10,Italia
+436,8535,Direttore Generale,Andrea Rogg,1978-05-20,Italia
+437,9804,Osservatore,Antonio Masellis,1971-01-19,Italia
+438,8535,Manager,Paulo Sousa,1970-08-30,Portogallo
+439,8636,Manager,Stefano Pioli,1965-10-20,Italia
+440,8564,Osservatore,Ibrahim Ba,1973-11-12,Francia
+441,8636,Osservatore,Davide Cattaneo,1982-06-23,Italia
+442,8636,Direttore Sportivo,Piero Ausilio,1972-06-28,Italia
+443,8535,Capo Fisioterapista,Francesco Tonarelli,1971-01-27,Italia
+444,8535,Fisioterapista,Simone Michelassi,1984-10-13,Italia
+445,9875,Allenatore,Enrico D' Andrea,1960-10-17,Italia
+446,9875,Preparatore dei Portieri,Alessandro Nista,1965-07-10,Italia
+447,9857,Manager,Roberto Donadoni,1963-09-09,Italia
+448,9875,Direttore Sportivo,Cristiano Giuntoli,1972-02-12,Italia
+449,9882,Osservatore,Daniele Prade,1967-02-27,Italia
+450,9885,Allenatore Primavera,Marco Luison,1970-06-19,Italia
+451,8636,Analista Tattico,Michele Salzarulo,1983-12-01,Italia
+452,9875,Allenatore,Raffaele Canonico,1976-06-09,Italia
+453,8535,Osservatore,Pietro Pacini,1971-06-28,Italia
+454,8543,Allenatore,Enrico Allavena,1969-12-02,Italia
+455,8636,Preparatore Atletico,Giuseppe Bellistri,1987-07-28,Italia
+456,8543,Direttore Esecutivo,Marco Cavaliere,1972-09-11,Italia
+457,8543,Capo Fisioterapista,Valerio Caroli,1975-01-20,Italia
+458,9875,Capo Osservatore,Giuseppe Pompilio,1978-04-12,Italia
+459,8543,Analista Prestazionale,Adriano Bianchini,1963-01-23,Italia
+460,9885,Osservatore,Roberto Viviani,1967-05-08,Italia
+461,9885,Direttore Generale,Stefano Baldini,1974-05-18,Italia
+462,8535,Direttore Generale,Roberto Ripa,1967-10-29,Italia
+463,8636,Preparatore dei Portieri,Adriano Bonaiuti,1967-07-05,Italia
+464,8564,Manager,Vincenzo Montella,1974-06-18,Italia
+465,8564,Presidente,Silvio Berlusconi,1936-09-29,Italia
+466,8564,Direttore Esecutivo,Adriano Galliani,1944-07-30,Italia
+467,9885,Osservatore,Moreno Zocchi,1969-07-16,Italia
+468,8535,Osservatore,Stefano Cappelletti,1959-06-26,Italia
+469,9882,Capo Allenatore Primavera,Amedeo Baldari,1956-11-17,Italia
+470,9875,Direttore Generale,Edoardo De Laurentiis,1985-02-08,Italia
+471,9875,Direttore Generale,Valentina De Laurentiis,1981-02-15,Italia
+472,9875,Fisioterapista,Fabio Sannino,1970-11-06,Italia
+473,8636,Osservatore,Giuseppe Giavardi,1953-07-03,Italia
+474,8564,Capo Osservatore,Mauro Bianchessi,1964-03-14,Italia
+475,8636,Direttore Generale,Handy Soetedjo,1970-10-06,Indonesia
+476,8686,Allenatore,Riccardo Del Vescovo,1980-10-09,Italia
+477,8636,Osservatore,Giovanni Cericola,1977-01-11,Italia
+478,9875,Direttore Esecutivo,Andrea Chiavelli,1967-05-23,Italia
+479,8636,Analista Prestazionale,Marco Fumagalli,1973-06-19,Italia
+480,9885,Osservatore,Andrea Minero,1983-04-23,Italia
+481,9885,Osservatore,Federico Cherubini,1971-01-04,Italia
+482,8543,Presidente,Claudio Lotito,1957-05-09,Italia
+483,9885,Fisioterapista,Maurizio Delfini,1976-10-19,Italia
+484,9885,Responsabile Settore Giovanile,Stefano Braghin,1964-06-21,Italia
+485,9885,Direttore Generale,Franzo Grande Stevens,1928-09-13,Italia
+486,9875,Preparatore Atletico,Corrado Saccone,1970-08-15,Italia
+487,8686,Osservatore,Stefano Palmieri,1954-02-24,Italia
+488,8543,Allenatore,Claudio Meli,1959-08-28,Italia
+489,9885,Direttore Generale,Maurizio Lombardo,1974-01-16,Italia
+490,9885,Osservatore,Claudio Gabetta,1964-01-17,Italia
+491,9875,Manager,Maurizio Sarri,1959-01-10,Italia
+492,8535,Osservatore,Maurizio Niccolini,1976-10-13,Italia
+493,8686,Assistente Manager,Marco Domenichini,1958-10-21,Italia
+494,9885,Osservatore,Roberto Bosco,1962-02-14,Italia
+495,9885,Osservatore,Ermanno Ferrari,1949-08-18,Italia
+496,9875,Capo Fisioterapista,Marco AS Romano,1985-06-17,Italia
+497,8535,Allenatore,Luca Pengue,1976-06-09,Italia
+498,8686,Capo Fisioterapista,Damiano Stefanini,1980-05-08,Italia
+499,9885,Assistente Manager,Marco Landucci,1964-03-25,Italia
+500,8686,Osservatore,Angelo Orazi,1951-09-12,Italia
+501,8535,Capo Osservatore,Pantaleo Corvino,1950-01-01,Italia
+502,9885,Osservatore,Roberto Brovarone,1964-02-11,Italia
+503,8535,Presidente,Mario Cognigni,1958-08-08,Italia
+504,8686,Direttore Esecutivo,Umberto Gandini,1960-10-20,Italia
+505,9885,Osservatore,Roberto Vichi,1973-02-21,Italia
+506,9885,Osservatore,Domenico Donvito,1981-03-16,Italia
+507,9885,Osservatore,Gerardo Gallo,1974-09-10,Italia
+508,9885,Preparatore Atletico,Andrea Pertusio,1977-07-29,Italia
+509,9885,Direttore Generale,Matteo Fabris,1977-12-08,Italia
+510,8564,Osservatore,Paolo Tremolada,1970-01-29,Italia
+511,8543,Capo Allenatore Primavera,Fabio Rodia,1979-07-10,Italia
+512,9885,Osservatore,David Trezeguet,1977-10-15,Francia
+513,8686,Allenatore,Aurelio Andreazzoli,1953-11-05,Italia
+514,9885,Fisioterapista,Dario Garbiero,1964-11-28,Italia
+515,9885,Direttore Generale,Giampiero Boniperti,1928-07-04,Italia
+516,8535,Responsabile Settore Giovanile,Vincenzo Vergine,1968-01-01,Italia
+517,8636,Capo Fisioterapista,Giannicola Bisciotti,1959-08-01,Italia
+518,9885,Osservatore,Massimiliano Colucci,1971-04-23,Italia
+519,8564,Capo Allenatore Primavera,Stefano Mazzoni,1972-07-20,Italia
+520,8543,Preparatore dei Portieri,Adalberto Grigioni,1954-08-19,Italia
+521,9885,Capo Allenatore Primavera,Claudio Rigo,1954-03-17,Italia
+522,9885,Osservatore,Claudio Sclosa,1961-02-28,Italia
+523,8686,Amministratore Delegato,James Pallotta,1958-03-13,Stati Uniti
+524,9885,Preparatore Atletico,Antonio Gualtieri,1989-10-15,Italia
+525,8543,Direttore Generale,Arturo Diaconale,1945-09-08,Italia
+526,9885,Osservatore,Giovanni Rosignoli,1971-03-26,Italia
+527,8564,Responsabile Settore Giovanile,Filippo Galli,1963-05-19,Italia
+528,9885,Allenatore,Aldo Dolcetti,1966-10-23,Italia
+529,8686,Direttore Sportivo,Frederic Massara,1968-11-11,Italia
+530,9885,Allenatore,Maurizio Trombetta,1962-09-29,Italia
+531,9885,Osservatore,Roberto Marta,1970-12-25,Italia
+532,9885,Osservatore,Giuseppe Dragone,1968-12-24,Italia
+533,8636,Direttore Generale,Daniele Bernazzani,1963-01-28,Italia
+534,8535,Direttore Generale,Diego Della Valle,1953-12-30,Italia
+535,8535,Capo Allenatore Primavera,Paolo Manetti,1965-10-14,Italia
+536,8636,Fisioterapista,Massimo Dellacasa,1960-05-13,Italia
+537,8636,Capo Osservatore,Massimiliano Mirabelli,1965-11-19,Italia
+538,9885,Allenatore,Riccardo Scirea,1977-02-12,Italia
+539,8564,Proprietario,Li Yonghong,1971-04-03,Cina
+540,8686,Allenatore,Simone Beccaccioli,1983-01-14,Italia
+541,8636,Fisioterapista,Marco Dellacasa,1976-02-26,Italia
+542,9885,Osservatore,Vittorio Quagliarella,1974-07-29,Italia
+543,8686,Manager,Luciano Spalletti,1959-03-07,Italia
+544,8564,Preparatore dei Portieri,Alfredo Magni,1966-04-30,Italia
+545,8564,Direttore Generale,Franco Baresi,1960-05-08,Italia
+546,9885,Direttore Generale,Gianluca Pessotto,1970-08-11,Italia
+547,9885,Direttore Generale,Pavel Nedved,1972-08-30,Repubblica Ceca
+548,9885,Preparatore Atletico,Roberto Sassi,1951-06-07,Italia
+549,8636,Capo Allenatore Primavera,Piero Volpi,1952-06-09,Italia
+550,9875,Capo Allenatore Primavera,Alfonso De Nicola,1959-01-28,Italia
+551,8535,Proprietario,Andrea Della Valle,1965-09-26,Italia
+552,9885,Preparatore Atletico,Duccio Ferrari Bravo,1973-09-06,Italia
+553,9885,Osservatore,Emilio Doveri,1955-08-27,Italia
+554,9885,Osservatore,Stefano Pinelli,1970-10-31,Italia
+555,8686,Capo Allenatore Primavera,Helge Riepenhof,1978-05-10,Germania
+556,9885,Capo Osservatore,Javier Ribalta,1973-06-19,Spagna
+557,9885,Preparatore Atletico,Simone Folletti,1972-10-06,Italia
+558,9885,Manager,Massimiliano Allegri,1967-08-11,Italia
+559,8686,Direttore Generale,Bruno Conti,1955-03-13,Italia
+560,9885,Analista Prestazionale,Stefano Grani,1966-09-04,Italia
+561,9885,Capo Fisioterapista,Emanuele Randelli,1976-02-01,Italia
+562,9875,Presidente,Aurelio De Laurentiis,1949-05-24,Italia
+563,9885,Fisioterapista,Gianluca Scolaro,1976-10-11,Italia
+564,8636,Osservatore,Pierluigi Casiraghi,1941-08-25,Italia
+565,8636,Responsabile Settore Giovanile,Roberto Samaden,1966-03-29,Italia
+566,9885,Presidente,Andrea Agnelli,1975-12-06,Italia
+567,8686,Preparatore Atletico,Darcy Norman,1971-09-09,Canada
+568,9885,Preparatore dei Portieri,Claudio Filippi,1965-07-07,Italia
+569,9885,Direttore Esecutivo,Giuseppe Marotta,1957-03-25,Italia
+570,9885,Direttore Sportivo,Fabio Paratici,1972-07-13,Italia
+571,9817,Capo Allenatore Primavera,Luca Gatteschi,1962-01-21,Italia
+572,8197,Presidente,Vichai Srivaddhanaprabha,1958-06-05,Thailandia
+573,10003,Analista Prestazionale,Johnny Northeast,1990-08-04,Galles
+574,9826,Preparatore dei Portieri,Martyn Margetson,1971-09-08,Galles
+575,8586,Presidente,Daniel Levy,1962-01-08,Inghilterra
+576,8455,Preparatore Atletico,Costantino Coratti,1967-11-12,Italia
+577,10260,Presidente,Ed Woodward,1971-11-09,Inghilterra
+578,8650,Presidente,Thomas Werner,1950-04-12,Stati Uniti
+579,8654,Preparatore dei Portieri,Chris Woods,1959-11-14,Inghilterra
+580,9825,Presidente,Chips Keswick,1940-02-02,Inghilterra
+581,8456,Presidente,Khaldoon Al Mubarak,1976-09-20,Egitto
+582,8466,Manager,Claude Puel,1961-09-02,Francia
+583,8654,Manager,Slaven Bilic,1968-09-11,Croazia
+584,8455,Allenatore,Steve Holland,1970-04-30,Inghilterra
+585,8668,Manager,Ronald Koeman,1963-03-21,Olanda
+586,8586,Manager,Mauricio Pochettino,1972-03-02,Argentina
+587,8455,Presidente,Bruce Buck,1945-10-16,Stati Uniti
+588,8455,Preparatore Atletico,Paolo Bertelli,1960-08-12,Italia
+589,8650,Manager,Jurgen Klopp,1967-06-16,Germania
+590,9825,Manager,Arsene Wenger,1949-10-22,Francia
+591,10260,Manager,Jose Mourinho,1963-01-26,Portogallo
+592,8455,Manager,Antonio Conte,1969-07-31,Italia
+593,8455,Preparatore dei Portieri,Gianluca Spinelli,1966-10-28,Italia
+594,8456,Manager,Pep Guardiola,1971-01-18,Spagna
+595,9748,Manager,Bruno Genesio,1966-09-01,Francia
+596,9847,Fisioterapista,Cyril Praud,1984-09-19,Francia
+597,9829,Presidente,Dmitry Rybolovlev,1966-11-22,Russia
+598,9847,Presidente,Nasser Al- Khelaifi,1973-11-12,Qatar
+599,9827,Preparatore Atletico,Eric Bedouet,1954-04-14,Francia
+600,9748,Presidente,Jean- Michel Aulas,1949-03-22,Francia
+601,9829,Manager,Leonardo Jardim,1974-08-01,Portogallo
+602,9847,Manager,Unai Emery,1971-11-03,Spagna
+603,8611,Capo Allenatore Primavera,Bas Peijs,1977-08-24,Olanda
+604,8640,Responsabile Settore Giovanile,Art Langeler,1970-08-16,Olanda
+605,6413,Allenatore,Dwight Lodeweges,1957-10-26,Olanda
+606,8593,Manager,Peter Bosz,1963-11-21,Olanda
+607,10235,Manager,Giovanni van Bronckhorst,1975-02-05,Olanda
+608,8640,Manager,Phillip Cocu,1970-10-29,Olanda
+609,10235,Preparatore Atletico,Arno Philips,1975-10-09,Olanda
+610,10267,Allenatore,Gabriele Pin,1962-01-21,Italia
+611,8722,Giocatore Allenatore,Sven Bacher,1988-09-28,Germania
+612,7878,Amministratore Delegato,Edu Martinez,1975-05-13,Spagna
+613,8558,Osservatore,Rafa Salguero,1967-08-30,Spagna
+614,7878,Fisioterapista,Dioni,1983-12-02,Spagna
+615,8634,Analista Tattico,Jesus Casas,1973-10-23,Spagna
+616,8302,Osservatore,Lionel Scaloni,1978-05-16,Argentina
+617,8722,Allenatore,Carsten Cullmann,1976-03-05,Germania
+618,9906,Osservatore,Canito,1976-11-02,Spagna
+619,8697,Capo Allenatore Primavera,Marco Niemeyer,1977-03-26,Germania
+620,8226,Direttore Esecutivo,Thomas Richter,1980-08-19,Germania
+621,8234,Capo Allenatore Primavera,Tobias Knodler,1972-02-12,Germania
+622,8262,Allenatore,Thomas Saltzer,1974-07-02,Germania
+623,7878,Direttore Sportivo,Piru,1975-10-11,Spagna
+624,8722,Allenatore,Evangelos Nessos,1978-06-27,Grecia
+625,9823,Osservatore,Dirk Anders,1966-09-26,Germania
+626,8262,Fisioterapista,Dirk Schmitt,1978-09-07,Germania
+627,8558,Capo Allenatore Primavera,Jonathan Sordo,1978-03-07,Spagna
+628,9783,Capo Allenatore Primavera,Manuel Gomez,1970-09-07,Spagna
+629,7878,Capo Allenatore Primavera,Jose Miguel Castillo,1988-03-01,Spagna
+630,8177,Osservatore,Andreas Neuendorf,1975-02-09,Germania
+631,9869,Osservatore,Javi Gonzalez,1962-01-29,Spagna
+632,8372,Osservatore,Miguel Cervilla,1955-10-19,Spagna
+633,9864,Capo Allenatore Primavera,Jose Espinosa,1990-01-07,Spagna
+634,9910,Capo Allenatore Primavera,Andres Bravo,1962-07-16,Spagna
+635,8406,Capo Osservatore,Stefan Schwarz,1970-07-29,Germania
+636,9789,Osservatore,Markus Pilawa,1977-09-06,Germania
+637,8372,Preparatore dei Portieri,Josu Anuzita,1964-01-13,Spagna
+638,9869,Preparatore dei Portieri,Diego Tuero,1979-09-10,Spagna
+639,8372,Capo Allenatore Primavera,Alberto Fernandez,1971-09-02,Spagna
+640,9910,Fisioterapista,Ernesto Vieito,1979-10-17,Spagna
+641,8306,Preparatore Atletico,Fran Soto,1974-01-15,Spagna
+642,8226,Capo Allenatore Primavera,Kai- David Gaus,1983-11-08,Germania
+643,8372,Presidente,Amaia Gorostiza,1968-05-16,Spagna
+644,8315,Direttore Generale,Genar Andrinua,1964-05-09,Spagna
+645,8634,Osservatore,Nino Lema,1964-09-12,Spagna
+646,8177,Direttore Generale,Andreas Schmidt,1973-09-14,Germania
+647,8315,Allenatore,Carlos Gurpegi,1980-09-19,Spagna
+648,9910,Osservatore,Borja Oubina,1982-05-17,Spagna
+649,9810,Responsabile Settore Giovanile,Armin Kraaz,1965-02-03,Germania
+650,8226,Direttore Generale,Peter Hofmann,1959-01-14,Germania
+651,9910,Osservatore,Roberto Bonano,1970-01-24,Argentina
+652,9910,Osservatore,Mario Bermejo,1978-10-07,Spagna
+653,9905,Allenatore,Bo Svensson,1979-08-04,Danimarca
+654,8722,Osservatore,Heinz Hornig,1937-09-28,Germania
+655,7878,Fisioterapista,Javier Avila,1973-12-16,Spagna
+656,8302,Fisioterapista,Adolfo Munoz,1979-02-11,Spagna
+657,7878,Allenatore,David Navarro,1974-11-28,Spagna
+658,9864,Direttore Generale,Nasser Al- Thani,1991-05-09,Qatar
+659,8722,Osservatore,Nils Schmadtke,1989-03-16,Germania
+660,7878,Osservatore,Pedro Morilla,1972-10-11,Spagna
+661,9783,Fisioterapista,Rafael Martin Acero,1964-08-06,Spagna
+662,8372,Analista Prestazionale,Fernando Iturbe,1972-05-15,Spagna
+663,9910,Preparatore dei Portieri,Carlos Kisluk,1968-01-06,Argentina
+664,7878,Direttore Esecutivo,Javier Jimenez Ortiz,1979-10-29,Spagna
+665,8306,Direttore Generale,Nicolas Ortega,1953-06-15,Spagna
+666,9869,Osservatore,Mario Cotelo,1975-02-16,Spagna
+667,9783,Osservatore,Miguel Gamallo,1974-06-25,Spagna
+668,8372,Capo Fisioterapista,Unai Ormazabal,1976-04-24,Spagna
+669,8306,Fisioterapista,Juan Naranjo,1979-05-27,Spagna
+670,10267,Manager,Voro,1963-10-09,Spagna
+671,8234,Direttore Esecutivo,Harald Gartner,1968-11-30,Germania
+672,8697,Allenatore,Markus Feldhoff,1974-08-29,Germania
+673,9810,Assistente Manager,Robert Kovac,1974-04-06,Croazia
+674,9910,Osservatore,Javier Torres Gomez,1970-01-09,Spagna
+675,10205,Osservatore,Pascual,1968-04-04,Spagna
+676,8306,Osservatore,Daniel Carnevali,1946-12-04,Argentina
+677,7878,Osservatore,Fari,1979-12-26,Spagna
+678,9869,Direttore Generale,Pepe Acebal,1956-10-28,Spagna
+679,9910,Osservatore,Edu Covelo,1977-03-07,Spagna
+680,9783,Fisioterapista,Carlos Larino,1981-10-15,Spagna
+681,7878,Direttore Generale,Antonio Vicente,1977-11-10,Spagna
+682,9905,Capo Allenatore Primavera,Stefan Mattyasovszky,1968-01-24,Germania
+683,9810,Osservatore,Peter Banse,1948-10-26,Germania
+684,7878,Allenatore,Manuel Lucena,1982-11-18,Spagna
+685,9783,Capo Fisioterapista,Pablo Lopez,1970-11-12,Spagna
+686,9783,Capo Osservatore,Ernesto Bello,1961-04-18,Spagna
+687,9783,Amministratore Delegato,Tino Fernandez,1966-05-01,Spagna
+688,8372,Capo Osservatore,Mikel Martija,1987-06-27,Spagna
+689,8697,Direttore Generale,Willi Lemke,1946-08-19,Germania
+690,8302,Capo Allenatore Primavera,Jose Antonio Campos,1962-04-11,Spagna
+691,8372,Osservatore,Lluis Codina,1973-02-17,Spagna
+692,9869,Direttore Generale,Quini,1949-09-23,Spagna
+693,9910,Osservatore,Jose Luis Mosquera,1967-03-10,Venezuela
+694,8372,Allenatore,Igor Jauregi,1974-04-29,Spagna
+695,9783,Osservatore,Jose Luis Devesa,1981-06-06,Spagna
+696,7878,Proprietario,Jiang Lizhang,1972-02-07,Cina
+697,8315,Capo Allenatore Primavera,Ibon Moreno,1964-07-16,Spagna
+698,9783,Osservatore,Manuel Pablo,1976-01-25,Spagna
+699,8372,Osservatore,Inaki Barasoain,1947-11-18,Spagna
+700,8558,Amministratore Delegato,Ramon Robert,1971-07-02,Spagna
+701,8372,Osservatore,Andoni Azkargorta,1978-06-02,Spagna
+702,8721,Direttore Esecutivo,Wolfgang Hotze,1952-07-09,Germania
+703,8406,Preparatore dei Portieri,Zdenko Miletic,1968-04-23,Croazia
+704,8721,Assistente Manager,Fredrik Ljungberg,1977-04-16,Svezia
+705,8634,Osservatore,Urbano Ortega,1961-12-11,Spagna
+706,8633,Direttore Generale,Roberto Carlos,1973-04-10,Brasile
+707,8306,Osservatore,Juan Carlos Valeron,1975-06-17,Spagna
+708,10267,Direttore Sportivo,Jose Ramon Alexanko,1956-05-19,Spagna
+709,8697,Manager,Alexander Nouri,1979-08-20,Germania
+710,8262,Responsabile Settore Giovanile,Ramon Berndroth,1952-03-24,Germania
+711,8262,Direttore Generale,Uwe Kuhl,1961-08-24,Germania
+712,9864,Manager,Marcelo Romero,1976-07-04,Uruguay
+713,8372,Osservatore,Jose Gallastegui,1956-12-13,Spagna
+714,9864,Assistente Manager,Sergio Pellicer,1973-09-09,Spagna
+715,8697,Assistente Manager,Florian Bruns,1979-08-21,Germania
+716,8262,Allenatore,Michael Stegmayer,1985-01-12,Germania
+717,8262,Allenatore,Ovid Hajou,1983-11-10,Germania
+718,9864,Osservatore,Sebastian Moreno,1955-10-03,Spagna
+719,9869,Proprietario,Jose Fernandez,1937-08-01,Spagna
+720,9910,Responsabile Settore Giovanile,Carlos Hugo Garcia Bayon,1973-12-10,Spagna
+721,9910,Fisioterapista,Pedro Docampo,1981-08-27,Spagna
+722,9864,Osservatore,Jose Manuel Hernandez,1984-09-19,Spagna
+723,8722,Osservatore,Nuno Felix,1976-12-05,Portogallo
+724,8234,Fisioterapista,Hermann Eikam,1954-09-09,Germania
+725,8406,Capo Fisioterapista,James Morgan,1975-02-23,Nuova Zelanda
+726,8234,Fisioterapista,Benjamin Sommer,1981-10-23,Germania
+727,8406,Manager,Manuel Baum,1979-08-30,Germania
+728,8234,Manager,Maik Walpurgis,1973-10-09,Germania
+729,8406,Osservatore,Eberhard Schuster,1940-12-31,Germania
+730,8406,Osservatore,Horst Franz,1940-06-17,Germania
+731,9810,Osservatore,Michael Provaznik,1982-12-05,Repubblica Ceca
+732,8722,Osservatore,Marc Dommer,1977-09-26,Germania
+733,8722,Direttore Generale,Markus Ritterbach,1963-07-24,Germania
+734,8262,Fisioterapista,Thomas Stubner,1986-02-17,Germania
+735,8262,Direttore Generale,Tom Eilers,1970-03-17,Germania
+736,8722,Osservatore,Paul Colesar,1977-02-03,Germania
+737,8262,Allenatore,Bjorn Muller,1977-01-25,Germania
+738,9910,Direttore Esecutivo,Antonio Chaves,1978-06-04,Spagna
+739,9869,Preparatore Atletico,Xabi Gil,1973-08-02,Spagna
+740,9810,Direttore Generale,Peter Fischer,1953-02-04,Germania
+741,10205,Capo Allenatore Primavera,Alvaro Jimenez,1972-06-13,Spagna
+742,8306,Capo Fisioterapista,David Alvarez Santana,1975-11-09,Spagna
+743,9910,Osservatore,Santiago Castro,1947-05-16,Spagna
+744,8558,Proprietario,Yansheng Chen,1970-07-10,Cina
+745,8721,Direttore Esecutivo,Thomas Rottgermann,1960-10-14,Germania
+746,8558,Direttore Generale,Raul Tamudo,1977-10-19,Spagna
+747,9869,Analista Tattico,Manu Gonzalez,1973-04-10,Spagna
+748,8226,Osservatore,Christopher Vivell,1986-12-15,Germania
+749,9783,Analista Tattico,Jose Luis Ribera,1965-06-01,Spagna
+750,8262,Preparatore dei Portieri,Dimo Wache,1973-11-01,Germania
+751,8722,Osservatore,Siggi Marti,1959-05-10,Germania
+752,8262,Manager,Torsten Frings,1976-11-22,Germania
+753,8262,Direttore Sportivo,Alexander Klitzpera,1977-10-19,Germania
+754,8315,Direttore Generale,Jose Angel Iribar,1943-03-01,Spagna
+755,9869,Responsabile Settore Giovanile,Manolo,1976-01-27,Spagna
+756,8558,Analista Tattico,Jose Luis Gallardo,1971-09-12,Spagna
+757,9869,Osservatore,Rogelio,1956-08-19,Spagna
+758,8234,Amministratore Delegato,Peter Jackwerth,1957-02-21,Germania
+759,9906,Osservatore,Rafa Munoz,1966-03-21,Spagna
+760,8633,Direttore Generale,Ramon Martinez,1947-07-15,Spagna
+761,9910,Preparatore dei Portieri,Patxi Villanueva,1965-07-27,Spagna
+762,8306,Capo Allenatore Primavera,Gerardo Garces,1957-01-06,Spagna
+763,9869,Assistente Manager,Jaume Torras,1968-10-07,Spagna
+764,8306,Assistente Manager,Eder Sarabia,1980-09-27,Spagna
+765,9869,Presidente,Javier Fernandez,1964-10-11,Spagna
+766,9869,Analista Prestazionale,Cesar Castano,1984-06-17,Spagna
+767,8558,Preparatore Atletico,Toni Clavero,1985-10-28,Spagna
+768,8302,Allenatore,Inigo Dominguez,1979-01-08,Spagna
+769,8302,Preparatore Atletico,Jorge Desio,1968-07-16,Argentina
+770,8178,Preparatore Atletico,Schahriar Bigdeli,1980-03-26,Germania
+771,8722,Fisioterapista,Thorsten Klopp,1975-01-29,Germania
+772,8722,Osservatore,Herbert Zimmermann,1954-07-01,Germania
+773,8722,Osservatore,Norbert Karlsen,1972-11-22,Germania
+774,9810,Osservatore,Manfred Petz,1961-05-05,Germania
+775,8697,Direttore Esecutivo,Klaus Filbry,1967-01-09,Germania
+776,8234,Preparatore Atletico,Jorg Mikoleit,1971-01-18,Germania
+777,8262,Amministratore Delegato,Rudiger Fritsch,1961-07-10,Germania
+778,8234,Preparatore dei Portieri,Martin Scharrer,1983-02-23,Germania
+779,8558,Allenatore,Toni Borrell,1974-01-24,Spagna
+780,8315,Allenatore,Alberto Iglesias,1973-07-06,Spagna
+781,8633,Capo Allenatore Primavera,Cesc Arribas,1981-07-21,Spagna
+782,9783,Allenatore,Jose Angel Franganillo,1961-03-17,Spagna
+783,8372,Responsabile Settore Giovanile,Mikel Gonzalez,1987-09-02,Spagna
+784,8177,Direttore Esecutivo,Ingo Schiller,1965-06-18,Germania
+785,10205,Osservatore,Javier Moreiras,1963-08-29,Spagna
+786,9869,Direttore Sportivo,Nico Rodriguez,1969-07-25,Spagna
+787,9864,Osservatore,Manolo Gaspar,1981-02-03,Spagna
+788,9783,Preparatore Atletico,Julio Hernando,1971-04-18,Spagna
+789,8372,Direttore Sportivo,Fran Garagarza,1969-01-02,Spagna
+790,10205,Direttore Generale,Fernando Roig Nogueroles,1974-06-13,Spagna
+791,10267,Proprietario,Peter Lim,1953-09-27,Singapore
+792,8178,Osservatore,Adrian Babic,1979-08-01,Croazia
+793,8697,Osservatore,Sven Meusch,1981-09-29,Germania
+794,8558,Osservatore,Eloy Perez,1965-03-25,Spagna
+795,9789,Osservatore,Massimo Mariotti,1961-11-22,Svizzera
+796,8177,Osservatore,Torsten Wohlert,1965-12-10,Germania
+797,8226,Allenatore,Alfred Schreuder,1972-11-02,Olanda
+798,8234,Direttore Sportivo,Thomas Linke,1969-12-26,Germania
+799,8697,Allenatore,Dieter Eilts,1964-12-13,Germania
+800,8697,Presidente,Marco Bode,1969-03-27,Germania
+801,8697,Responsabile Settore Giovanile,Bjorn Schierenbeck,1974-07-12,Germania
+802,8633,Assistente Manager,David Bettoni,1971-11-23,Francia
+803,8177,Assistente Manager,Rainer Widmayer,1967-04-02,Germania
+804,8558,Responsabile Settore Giovanile,Angel Morales,1975-07-13,Spagna
+805,8306,Preparatore dei Portieri,Zeljko Cicovic,1970-09-16,Serbia
+806,8372,Preparatore dei Portieri,Inaki Lafuente,1976-01-24,Spagna
+807,8226,Preparatore dei Portieri,Michael Rechner,1980-05-27,Germania
+808,9906,Analista Tattico,Capa,1979-12-01,Spagna
+809,9864,Fisioterapista,Luis Barbado,1976-06-22,Spagna
+810,9864,Preparatore dei Portieri,Paco Ruiz,1971-01-07,Spagna
+811,10267,Assistente Manager,Chema Sanz,1977-07-28,Spagna
+812,8306,Preparatore Atletico,Rafa Cristobal,1973-06-01,Spagna
+813,8633,Allenatore,Hamidou Msaidie,1975-04-23,Francia
+814,8234,Osservatore,Thomas Finck,1969-08-11,Germania
+815,8302,Allenatore,Martin Tocalli,1974-09-14,Argentina
+816,9910,Assistente Manager,Ernesto Marcucci,1972-12-06,Argentina
+817,8406,Responsabile Settore Giovanile,Roy Stapelfeld,1976-04-03,Germania
+818,8722,Fisioterapista,Paul Schiedges,1980-01-06,Germania
+819,8406,Allenatore,Andreas Weigel,1964-06-28,Germania
+820,9910,Amministratore Delegato,Carlos Mourino,1943-03-04,Spagna
+821,7878,Assistente Manager,Jesus Canadas,1984-10-02,Spagna
+822,8372,Preparatore Atletico,Alain Gandiaga,1982-03-05,Spagna
+823,9906,Osservatore,Tolo Darder,1944-01-04,Spagna
+824,8722,Amministratore Delegato,Werner Spinner,1948-10-30,Germania
+825,8722,Preparatore Atletico,Marcel Abanoz,1983-04-07,Germania
+826,8406,Amministratore Delegato,Klaus Hofmann,1967-10-21,Germania
+827,8177,Fisioterapista,Frederick Syna,1985-01-07,Germania
+828,8177,Allenatore,Admir Hamzagic,1985-11-23,Serbia
+829,8262,Capo Fisioterapista,Sebastian Gilles,1988-10-13,Germania
+830,8697,Allenatore,Mario Baric,1984-11-10,Croazia
+831,9910,Osservatore,Milorad Ratkovic,1964-10-16,Serbia
+832,8306,Direttore Sportivo,Toni Cruz,1969-07-12,Spagna
+833,9910,Preparatore Atletico,Pablo Fernandez,1980-12-22,Argentina
+834,8315,Preparatore Atletico,Xabier Clemente,1975-04-15,Spagna
+835,10267,Capo Allenatore Primavera,Luis Gonzalez,1970-02-10,Spagna
+836,8234,Capo Fisioterapista,Christian Haser,1973-01-04,Germania
+837,9810,Preparatore Atletico,Michael Fabacher,1976-05-14,Germania
+838,8178,Osservatore,Mete Oztunali,1971-07-15,Turchia
+839,8262,Preparatore Atletico,Kai Peter Schmitz,1971-07-07,Germania
+840,8234,Capo Osservatore,Florian Zehe,1981-12-12,Germania
+841,8177,Preparatore Atletico,Hendrik Vieth,1983-09-18,Germania
+842,8697,Preparatore dei Portieri,Christian Vander,1980-10-24,Germania
+843,8697,Osservatore,Sebastian Hartung,1980-12-06,Germania
+844,9869,Fisioterapista,Pablo Del Fueyo,1987-07-18,Spagna
+845,9783,Assistente Manager,Patxi Ferreira,1967-05-22,Spagna
+846,8302,Analista Tattico,Jesus Olivera,1985-12-17,Spagna
+847,8697,Direttore Sportivo,Frank Baumann,1975-10-29,Germania
+848,8722,Assistente Manager,Manfred Schmid,1971-02-20,Austria
+849,8722,Direttore Generale,Harald Schumacher,1954-03-06,Germania
+850,8634,Analista Tattico,Jordi Melero,1972-06-06,Spagna
+851,8306,Capo Osservatore,Luis Helguera,1976-06-09,Spagna
+852,9789,Osservatore,Edwin Boekamp,1959-02-05,Germania
+853,9869,Manager,Rubi,1970-01-01,Spagna
+854,8722,Capo Allenatore Primavera,Paul Klein,1967-05-23,Germania
+855,10267,Direttore Generale,Juan Cruz Sol,1947-09-13,Spagna
+856,8177,Capo Allenatore Primavera,Ulrich Schleicher,1960-07-30,Germania
+857,8558,Capo Fisioterapista,Manuel Gonzalez Postigo,1969-01-18,Spagna
+858,8634,Osservatore,Alex Garcia,1970-01-14,Spagna
+859,9906,Fisioterapista,Gorka De Abajo,1978-03-12,Spagna
+860,9783,Preparatore dei Portieri,Manu Sotelo,1981-04-17,Spagna
+861,10205,Assistente Manager,Josep Alcacer,1979-09-09,Spagna
+862,9864,Capo Osservatore,David Vizcaino,1972-11-04,Spagna
+863,7878,Allenatore,Alvaro Garcia Peinado,1989-11-07,Spagna
+864,10205,Osservatore,Antonio Salamanca,1968-12-21,Francia
+865,8722,Analista Tattico,Philipp Kab,1984-08-12,Germania
+866,8178,Direttore Generale,Jochen Rotthaus,1966-02-28,Germania
+867,8722,Osservatore,Martin Siegbert,1971-05-28,Germania
+868,9810,Analista Tattico,Marcel Daum,1986-07-20,Germania
+869,9905,Allenatore,Soren Hartung,1983-11-22,Germania
+870,8697,Capo Osservatore,Tim Steidten,1979-04-27,Germania
+871,8226,Allenatore,Benjamin Gluck,1986-04-28,Germania
+872,9789,Direttore Generale,Reinhard Rauball,1947-12-25,Germania
+873,8315,Osservatore,Raul Lorono,1973-03-28,Spagna
+874,9789,Direttore Generale,Gerd Pieper,1943-08-28,Germania
+875,8177,Allenatore,Dominik Wohlert,1993-09-10,Germania
+876,8177,Preparatore dei Portieri,Zsolt Petry,1966-09-23,Ungheria
+877,8315,Capo Osservatore,Blas Ziarreta,1947-02-06,Spagna
+878,8234,Osservatore,Manfred Linzmaier,1962-08-27,Austria
+879,8226,Direttore Sportivo,Alexander Rosen,1979-04-10,Germania
+880,8315,Osservatore,Carlos Melendez,1957-01-26,Spagna
+881,8178,Preparatore dei Portieri,David Thiel,1984-07-28,Germania
+882,9869,Capo Fisioterapista,Diego Lobelle,1975-10-25,Spagna
+883,8697,Preparatore Atletico,Axel Dorrfub,1971-06-29,Germania
+884,8721,Osservatore,John Pohlmann,1988-01-03,Germania
+885,9905,Preparatore dei Portieri,Stephan Kuhnert,1960-09-07,Germania
+886,9905,Fisioterapista,Christopher Rohrbeck,1978-06-27,Germania
+887,9905,Assistente Manager,Peter Perchtold,1984-09-02,Germania
+888,8226,Preparatore Atletico,Otmar Rosch,1961-08-26,Germania
+889,9789,Preparatore Atletico,Rainer Schrey,1959-05-10,Germania
+890,8315,Osservatore,Jorge Portillo,1976-01-28,Spagna
+891,10267,Direttore Generale,Kim Koh,1959-10-06,Singapore
+892,9869,Osservatore,Marco Canal,1972-04-20,Spagna
+893,8306,Responsabile Settore Giovanile,Tonono Rodriguez,1963-09-16,Spagna
+894,9905,Preparatore Atletico,Jonas Grunewald,1983-03-21,Germania
+895,8697,Preparatore Atletico,Gunther Stoxreiter,1980-11-30,Austria
+896,8178,Osservatore,Uwe Helmes,1958-06-27,Germania
+897,8315,Osservatore,Kike Mayayo,1958-06-09,Spagna
+898,8302,Amministratore Delegato,Jose Castro,1958-07-22,Spagna
+899,10267,Amministratore Delegato,Lay Hoon,1964-03-24,Singapore
+900,9789,Direttore Generale,Reinhold Lunow,1953-08-13,Germania
+901,8315,Amministratore Delegato,Josu Urrutia,1968-04-10,Spagna
+902,9906,Allenatore,Juan Vizcaino,1966-08-06,Spagna
+903,9910,Allenatore,Vladimir Gudelj,1966-11-22,Bosnia Erzegovina
+904,8633,Allenatore,Chendo,1961-10-12,Spagna
+905,9810,Presidente,Fredi Bobic,1971-10-30,Germania
+906,8721,Osservatore,Rudi Wojtowicz,1956-06-09,Polonia
+907,9823,Preparatore Atletico,Giovanni Mauri,1956-11-16,Italia
+908,8372,Assistente Manager,Inaki Bea,1978-07-26,Spagna
+909,8315,Preparatore Atletico,Marcos Amado,1974-08-29,Spagna
+910,8633,Osservatore,Michael Damgen,1961-04-06,Germania
+911,9810,Direttore Generale,Rainer Falkenhain,1962-02-03,Germania
+912,8697,Osservatore,Karl- Heinz Kamp,1946-09-26,Germania
+913,8226,Assistente Manager,Armin Reutershahn,1960-03-01,Germania
+914,8177,Direttore Sportivo,Michael Preetz,1967-08-17,Germania
+915,9905,Amministratore Delegato,Harald Strutz,1950-12-22,Germania
+916,9906,Direttore Esecutivo,Miguel Angel Gil,1963-05-28,Spagna
+917,8633,Responsabile Settore Giovanile,Victor Fernandez,1960-11-28,Spagna
+918,9910,Capo Osservatore,Angel Medina,1967-04-06,Spagna
+919,8302,Assistente Manager,Juan Manuel Lillo,1965-11-02,Spagna
+920,8306,Presidente,Miguel Angel Ramirez,1969-03-20,Spagna
+921,8226,Osservatore,Michael Mutzel,1979-09-27,Germania
+922,9905,Direttore Sportivo,Rouven Schroder,1975-10-18,Germania
+923,8315,Assistente Manager,Jon Aspiazu,1962-11-05,Spagna
+924,9864,Preparatore Atletico,Enrique Ruiz,1968-04-13,Spagna
+925,8722,Capo Allenatore Primavera,Peter Schaferhoff,1955-01-14,Germania
+926,10205,Preparatore Atletico,Jose Mascaros,1972-07-22,Spagna
+927,9810,Capo Fisioterapista,Daniel Rung,1980-09-01,Germania
+928,8226,Fisioterapista,Peter Geigle,1973-04-05,Germania
+929,7878,Capo Fisioterapista,Alberto Lara,1979-12-31,Spagna
+930,9869,Allenatore,Gonzalo Revuelta,1971-07-08,Spagna
+931,9906,Allenatore Primavera,Oscar Pitillas,1971-10-16,Spagna
+932,9906,Osservatore,Paco Cordobes,1970-03-26,Spagna
+933,9864,Amministratore Delegato,Abdullah Al- Thani,1967-02-19,Qatar
+934,9864,Direttore Generale,Pedro Gonzalez Segura,1975-08-07,Spagna
+935,9906,Fisioterapista,Jesus Vazquez,1975-10-18,Spagna
+936,7878,Capo Osservatore,Alberto Gonzalez,1976-06-02,Spagna
+937,8633,Fisioterapista,Javier Santamaria,1973-09-15,Spagna
+938,8633,Osservatore,Rafael Lopez Alonso,1960-08-17,Spagna
+939,8721,Osservatore,Uli Mohr,1970-06-11,Germania
+940,9789,Assistente Manager,Arno Michels,1967-09-16,Germania
+941,8177,Amministratore Delegato,Werner Gegenbauer,1950-05-28,Germania
+942,8721,Preparatore Atletico,Oliver Mutschler,1973-06-05,Germania
+943,8697,Osservatore,Tobias Suveges,1983-11-24,Germania
+944,9810,Allenatore,Sebastian Zelichowski,1982-03-14,Germania
+945,8721,Direttore Sportivo,Olaf Rebbe,1978-05-01,Germania
+946,8315,Allenatore Primavera,Iker Egana,1979-01-25,Spagna
+947,9783,Responsabile Settore Giovanile,Albert Gil,1975-12-27,Spagna
+948,8697,Osservatore,Thomas Wolter,1963-10-04,Germania
+949,8177,Capo Osservatore,Sven Kretschmer,1970-12-31,Germania
+950,9810,Fisioterapista,Maik Liesbrock,1984-04-22,Germania
+951,8226,Capo Fisioterapista,Christian Neitzert,1984-08-13,Germania
+952,8697,Fisioterapista,Sven Plagge,1983-08-31,Germania
+953,9810,Capo Osservatore,Ben Manga,1974-02-11,Guinea Equatoriale
+954,9905,Responsabile Settore Giovanile,Volker Kersting,1969-01-11,Germania
+955,9789,Allenatore,Benjamin Weber,1983-05-16,Germania
+956,8722,Osservatore,Kai Ruge,1972-01-09,Germania
+957,8226,Allenatore,Matthias Kaltenbach,1985-03-03,Germania
+958,8558,Direttore Sportivo,Jordi Lardin,1973-06-04,Spagna
+959,8315,Allenatore,Andoni Imaz,1971-09-05,Spagna
+960,7878,Manager,Lucas Alcaraz,1966-06-21,Spagna
+961,8315,Fisioterapista,Josean Lekue,1973-09-12,Spagna
+962,8721,Osservatore,Bogdan Komorowski,1985-11-22,Germania
+963,8177,Capo Fisioterapista,David De Mel,1965-08-31,Germania
+964,8302,Allenatore,Matias Manna,1983-06-21,Argentina
+965,8226,Preparatore Atletico,Christian Weigl,1976-06-13,Germania
+966,8177,Responsabile Settore Giovanile,Frank Vogel,1963-07-26,Germania
+967,8406,Assistente Manager,Alexander Frankenberger,1987-01-30,Germania
+968,9783,Manager,Gaizka Garitano,1975-07-09,Spagna
+969,8315,Osservatore,Antonio Karmona,1968-03-24,Spagna
+970,9810,Manager,Niko Kovac,1971-10-15,Croazia
+971,8315,Preparatore dei Portieri,Iru,1968-07-27,Spagna
+972,10205,Preparatore dei Portieri,Jesus Unanua,1969-06-23,Spagna
+973,8722,Preparatore dei Portieri,Alexander Bade,1970-08-25,Germania
+974,8633,Osservatore,Jesus Solana,1964-12-25,Spagna
+975,8226,Osservatore,Lutz Pfannenstiel,1973-05-12,Germania
+976,8177,Direttore Generale,Nello Di Martino,1951-11-22,Italia
+977,8315,Osservatore,Inaki Moran,1978-08-26,Spagna
+978,9783,Direttore Sportivo,Richard Barral,1961-09-17,Spagna
+979,8722,Manager,Peter Stoger,1966-04-11,Austria
+980,8234,Assistente Manager,Michael Henke,1957-04-27,Germania
+981,8721,Capo Osservatore,Pierre Littbarski,1960-04-16,Germania
+982,8721,Fisioterapista,Jorg Drill,1956-01-17,Germania
+983,9864,Direttore Sportivo,Francesc Arnau,1975-03-23,Spagna
+984,8634,Direttore Sportivo,Robert,1962-07-05,Spagna
+985,8633,Osservatore,Carlos Guerrero,1967-09-08,Spagna
+986,8558,Allenatore,Juan Carlos Oliva,1965-01-24,Spagna
+987,8633,Preparatore dei Portieri,Luis Llopis,1964-11-26,Spagna
+988,9864,Fisioterapista,Marcelino,1964-05-21,Spagna
+989,8372,Preparatore Atletico,Toni Ruiz,1969-12-19,Spagna
+990,8226,Manager,Julian Nagelsmann,1987-07-23,Germania
+991,8722,Capo Osservatore,Jorg Jakobs,1970-09-20,Germania
+992,9864,Fisioterapista,Juan Carlos Perez Frias,1956-07-27,Spagna
+993,8558,Assistente Manager,Antonio Diaz Carlavilla,1968-02-23,Spagna
+994,8634,Osservatore,Jordi Roura,1967-09-10,Spagna
+995,9906,Fisioterapista,Ivan Ortega,1981-11-10,Spagna
+996,10205,Capo Fisioterapista,Guillermo Adell,1980-02-01,Spagna
+997,9906,Preparatore Atletico,Carlos Menendez,1970-05-16,Argentina
+998,8633,Osservatore,Sebastian Herrera,1960-02-16,Spagna
+999,9810,Osservatore,Bernd Legien,1971-05-03,Germania
+1000,8721,Responsabile Settore Giovanile,Fabian Wohlgemuth,1979-04-02,Germania
+1001,8178,Osservatore,Simon Fahner,1978-04-21,Germania
+1002,8178,Osservatore,Nils Drube,1978-02-26,Germania
+1003,8722,Direttore Generale,Alexander Wehrle,1975-02-11,Germania
+1004,8722,Responsabile Settore Giovanile,Daniel Meyer,1979-09-10,Germania
+1005,8721,Allenatore,Ton Lokhoff,1960-01-11,Olanda
+1006,8177,Manager,Pal Dardai,1976-03-16,Ungheria
+1007,9810,Preparatore Atletico,Klaus Luisser,1977-05-16,Austria
+1008,8558,Allenatore,Alberto Giraldez,1960-04-03,Spagna
+1009,9789,Direttore Generale,Thomas Treb,1966-01-31,Germania
+1010,8226,Osservatore,Alfred Schon,1962-01-13,Germania
+1011,8721,Analista Tattico,Dustin Heun,1984-04-11,Germania
+1012,10205,Manager,Fran Escriba,1965-05-03,Spagna
+1013,8178,Assistente Manager,Markus Krosche,1980-09-17,Germania
+1014,9789,Osservatore,Artur Platek,1970-06-02,Polonia
+1015,9789,Osservatore,Ingo Preub,1958-07-30,Germania
+1016,8315,Fisioterapista,Benat Azula,1970-02-04,Spagna
+1017,10267,Preparatore Atletico,Juan Monar,1978-02-05,Spagna
+1018,9905,Manager,Martin Schmidt,1967-04-12,Svizzera
+1019,8177,Preparatore Atletico,Henrik Kuchno,1974-03-17,Germania
+1020,8178,Capo Osservatore,Jonas Boldt,1982-01-19,Germania
+1021,9905,Capo Fisioterapista,Stefan Stuwe,1976-05-26,Germania
+1022,9864,Direttore Generale,Antonio Tapia,1959-11-13,Spagna
+1023,9906,Osservatore,Carlos Aguilera,1969-05-22,Spagna
+1024,8406,Direttore Sportivo,Stefan Reuter,1966-10-16,Germania
+1025,8178,Osservatore,Hans- Peter Lehnhoff,1963-07-12,Germania
+1026,8633,Capo Fisioterapista,Victor Garcia Fonseca,1978-08-24,Spagna
+1027,9783,Osservatore,Ricardo Moar,1953-09-20,Spagna
+1028,9810,Capo Allenatore Primavera,Christoph Seeger,1963-07-18,Germania
+1029,9910,Manager,Eduardo Berizzo,1969-11-13,Argentina
+1030,9823,Fisioterapista,Francesco Mauri,1988-11-04,Italia
+1031,8315,Capo Fisioterapista,Paco Angulo,1959-12-02,Spagna
+1032,8558,Preparatore Atletico,Oscar Garcia,1972-10-24,Spagna
+1033,8558,Preparatore dei Portieri,Thomas N' Kono,1955-07-20,Camerun
+1034,8177,Direttore Generale,Bernd Schiphorst,1943-01-29,Germania
+1035,9810,Osservatore,Bernd Holzenbein,1946-03-09,Germania
+1036,8302,Osservatore,Jesus,1974-11-26,Spagna
+1037,10267,Osservatore,Vicente,1981-07-16,Spagna
+1038,9810,Direttore Sportivo,Bruno Hubner,1961-01-28,Germania
+1039,8697,Osservatore,Frank Ordenewitz,1965-03-25,Germania
+1040,8372,Manager,Jose Luis Mendilibar,1961-06-14,Spagna
+1041,8697,Fisioterapista,Florian Lauerer,1973-11-28,Germania
+1042,8633,Allenatore,Stephane Plancque,1961-01-06,Francia
+1043,8634,Analista Tattico,Isidre Ramon,1974-10-19,Spagna
+1044,8315,Fisioterapista,Alvaro Campa,1968-01-16,Spagna
+1045,9906,Capo Fisioterapista,Esteban Arevalo,1968-04-24,Spagna
+1046,8634,Allenatore,Daniel Medina,1970-04-12,Spagna
+1047,7878,Preparatore Atletico,Jose Alfonso Morcillo,1971-02-11,Spagna
+1048,8634,Presidente,Josep Maria Bartomeu,1963-02-06,Spagna
+1049,9864,Allenatore Primavera,Hugo Camarero,1979-06-06,Spagna
+1050,8633,Preparatore Atletico,Javier Mallo,1976-08-16,Spagna
+1051,8178,Manager,Roger Schmidt,1967-03-13,Germania
+1052,9789,Preparatore Atletico,Andreas Beck,1976-02-25,Germania
+1053,8722,Preparatore Atletico,Yann- Benjamin Kugel,1979-12-16,Germania
+1054,8178,Fisioterapista,Steffen Lutz,1981-06-10,Germania
+1055,8722,Capo Fisioterapista,Klaus Maierstein,1969-07-12,Germania
+1056,8178,Allenatore,Lars Kornetka,1978-01-03,Germania
+1057,8178,General Manager,Michael Schade,1952-12-22,Germania
+1058,9789,Fisioterapista,Swantje Thomben,1984-11-30,Germania
+1059,8634,Osservatore,Aureli Altimira,1968-02-21,Spagna
+1060,8306,Manager,Quique Setien,1958-09-27,Spagna
+1061,10267,Capo Fisioterapista,Jose Delos Santos,1952-06-24,Spagna
+1062,8634,Allenatore,Joan Barbara,1966-07-23,Spagna
+1063,9906,Preparatore dei Portieri,Pablo Vercellone,1968-05-07,Argentina
+1064,10267,Osservatore,Miguel Angel Bossio,1960-02-12,Uruguay
+1065,9906,Responsabile Settore Giovanile,Miguel Angel Ruiz,1955-04-15,Spagna
+1066,9789,Capo Allenatore Primavera,Markus Braun,1966-08-12,Germania
+1067,8178,Fisioterapista,Bodo Kuczmann,1955-06-25,Germania
+1068,8721,Allenatore,Andreas Steppat,1980-11-13,Germania
+1069,8634,Preparatore Atletico,Francesc Cos,1972-02-13,Spagna
+1070,9906,Preparatore Atletico,Ivan Diaz Infante,1980-06-28,Spagna
+1071,9906,Direttore Sportivo,Jose Luis Caminero,1967-11-08,Spagna
+1072,8722,Direttore Sportivo,Jorg Schmadtke,1964-03-16,Germania
+1073,8558,Manager,Quique Sanchez Flores,1965-05-05,Spagna
+1074,9789,Preparatore dei Portieri,Wolfgang de Beer,1964-01-02,Germania
+1075,8721,Manager,Andries Jonker,1962-09-22,Olanda
+1076,8178,Osservatore,Thomas Horster,1956-11-27,Germania
+1077,8697,Capo Fisioterapista,Holger Berger,1955-04-10,Germania
+1078,7878,Responsabile Settore Giovanile,Rufo Collado,1974-06-17,Spagna
+1079,9864,Preparatore Atletico,Carlos Cascallana,1956-06-16,Spagna
+1080,8315,Preparatore Atletico,Jose Antonio Pozanco,1970-06-04,Spagna
+1081,8315,Direttore Sportivo,Jose Maria Amorrortu,1953-07-22,Spagna
+1082,9905,Preparatore Atletico,Axel Busenkell,1971-11-26,Germania
+1083,8721,Preparatore dei Portieri,Andreas Hilfiker,1969-02-11,Svizzera
+1084,9823,Preparatore Atletico,Davide Ancelotti,1989-07-22,Italia
+1085,8634,Allenatore,Roberto Moreno,1977-09-10,Spagna
+1086,7878,Fisioterapista,Antonio Fernandez Gere,1976-04-02,Spagna
+1087,10205,Osservatore,Rafa Juanes,1967-05-08,Spagna
+1088,9864,Responsabile Settore Giovanile,Josep Manel Casanova,1951-02-11,Spagna
+1089,10205,Responsabile Settore Giovanile,Raul Herrera,1983-01-25,Spagna
+1090,8721,Presidente,Francisco Garcia,1957-05-06,Spagna
+1091,8721,Capo Fisioterapista,Michele Putaro,1974-02-25,Italia
+1092,8226,Responsabile Settore Giovanile,Dirk Mack,1968-08-23,Germania
+1093,8634,Direttore Esecutivo,Oscar Grau,1964-07-30,Spagna
+1094,8178,Osservatore,Laurent Busser,1970-05-01,Francia
+1095,8634,Capo Fisioterapista,Jaume Munill,1970-11-10,Spagna
+1096,9823,Preparatore dei Portieri,Toni Tapalovic,1980-10-10,Croazia
+1097,8634,Fisioterapista,Xavi Linde,1984-07-10,Spagna
+1098,9789,Osservatore,Volker Propper,1963-11-06,Germania
+1099,8634,Preparatore dei Portieri,Jose Ramon Dela Fuente,1970-12-22,Spagna
+1100,9789,Responsabile Settore Giovanile,Lars Ricken,1976-07-10,Germania
+1101,9789,Fisioterapista,Thomas Zetzmann,1970-12-14,Germania
+1102,9906,Direttore Generale,Lazaro Albarracin,1958-12-26,Spagna
+1103,8633,Manager,Zinedine Zidane,1972-06-23,Francia
+1104,8634,Assistente Manager,Juan Carlos Unzue,1967-04-22,Spagna
+1105,9910,Direttore Sportivo,Felipe Minambres,1965-04-29,Spagna
+1106,8633,Presidente,Florentino Perez,1947-03-08,Spagna
+1107,8302,Osservatore,Francisco,1962-11-01,Spagna
+1108,8633,Preparatore Atletico,Antonio Pintus,1962-09-26,Italia
+1109,9906,Presidente,Enrique Cerezo,1948-02-24,Spagna
+1110,9910,Capo Fisioterapista,Juan Jose Garcia Cota,1966-06-16,Spagna
+1111,8721,Capo Allenatore Primavera,Gunter Pfeiler,1954-02-14,Germania
+1112,8634,Responsabile Settore Giovanile,Pep Segura,1957-03-19,Spagna
+1113,8633,Osservatore,Sixto Alfonso,1967-02-16,Spagna
+1114,8634,Capo Osservatore,Josep Boada,1962-01-12,Spagna
+1115,8633,Osservatore,Antonio Soriano,1954-11-12,Spagna
+1116,8633,Osservatore,Juni Calafat,1972-12-19,Brasile
+1117,9864,Osservatore,Jose Luis Calderon,1977-03-13,Spagna
+1118,8178,Capo Fisioterapista,Sven Elsinger,1968-06-28,Germania
+1119,9789,Osservatore,Heiner Schuhmann,1948-11-04,Germania
+1120,8178,Responsabile Settore Giovanile,Helmut Jungheim,1960-08-10,Germania
+1121,8178,Capo Allenatore Primavera,Karl- Heinrich Dittmar,1963-01-08,Germania
+1122,8634,Osservatore,Lluis Gonzalez,1969-06-30,Spagna
+1123,9906,Capo Osservatore,Andrea Berta,1977-01-27,Italia
+1124,8633,Direttore Generale,Emilio Butragueno,1963-07-22,Spagna
+1125,8634,Fisioterapista,Juanjo Brau,1973-02-20,Spagna
+1126,8633,Analista Tattico,Raul Valbuena,1975-04-23,Spagna
+1127,9789,Preparatore Atletico,Florian Wangler,1980-01-16,Germania
+1128,8315,Manager,Ernesto Valverde,1964-02-09,Spagna
+1129,8302,Allenatore,Juan Martagon,1967-10-22,Spagna
+1130,9864,Capo Fisioterapista,Fernando Lacomba,1977-07-10,Spagna
+1131,8302,Preparatore dei Portieri,Jose Luis Silva,1979-09-15,Spagna
+1132,9906,Assistente Manager,German Burgos,1969-04-16,Argentina
+1133,10205,Amministratore Delegato,Fernando Roig,1947-07-25,Spagna
+1134,8302,Manager,Jorge Sampaoli,1961-03-13,Argentina
+1135,8302,Fisioterapista,Kiki Carvajal,1968-05-11,Spagna
+1136,10267,Preparatore dei Portieri,Jose Manuel Otxotorena,1961-01-16,Spagna
+1137,9906,Preparatore Atletico,Oscar Ortega,1958-03-29,Uruguay
+1138,9823,Preparatore Atletico,Holger Broich,1974-09-18,Germania
+1139,9789,Manager,Thomas Tuchel,1973-08-29,Germania
+1140,8302,Osservatore,Fermin Galeote,1963-11-18,Spagna
+1141,8302,Preparatore Atletico,Moises Del Hoyo,1981-03-10,Spagna
+1142,8406,Capo Allenatore Primavera,Ulrich Boenisch,1962-04-24,Germania
+1143,8226,Capo Osservatore,Hans- Martin Kleitsch,1951-12-15,Germania
+1144,9823,Fisioterapista,Gerry Hoffmann,1961-11-21,Germania
+1145,8634,Analista Tattico,Carlos Martinez,1983-04-18,Spagna
+1146,8178,Direttore Generale,Jurgen Gelsdorf,1953-01-19,Germania
+1147,9789,Direttore Sportivo,Michael Zorc,1962-08-25,Germania
+1148,8634,Preparatore Atletico,Edu Pons,1970-10-13,Spagna
+1149,9823,Capo Osservatore,Michael Reschke,1957-09-29,Germania
+1150,9823,Osservatore,Franz- Josef Reckels,1959-10-09,Germania
+1151,9789,Osservatore,Waldemar Wrobel,1970-01-02,Germania
+1152,8178,Direttore Sportivo,Rudi Voller,1960-04-13,Germania
+1153,9823,Osservatore,Egon Coordes,1944-07-13,Germania
+1154,9789,Capo Fisioterapista,Peter Kuhnt,1962-01-20,Germania
+1155,8302,Capo Osservatore,Oscar Arias,1966-01-05,Spagna
+1156,8178,Osservatore,Willibert Kremer,1939-10-15,Germania
+1157,8302,Responsabile Settore Giovanile,Pablo Blanco,1951-12-15,Spagna
+1158,9869,Capo Allenatore Primavera,Antonio Maestro,1959-04-06,Spagna
+1159,8302,Osservatore,Ramon Vazquez,1964-02-14,Spagna
+1160,8633,Osservatore,Gonzalo Martinez Olivares,1948-09-29,Spagna
+1161,8302,Preparatore dei Portieri,Javier Garcia,1979-07-04,Spagna
+1162,8302,Capo Fisioterapista,Pepe Amaya,1967-06-09,Spagna
+1163,9823,Preparatore Atletico,Andreas Schlumberger,1966-07-23,Germania
+1164,9823,Preparatore Atletico,Thomas Wilhelmi,1967-05-11,Germania
+1165,8178,Preparatore Atletico,Oliver Bartlett,1969-03-08,Inghilterra
+1166,9823,Fisioterapista,Christian Huhn,1976-03-27,Germania
+1167,8634,Allenatore,Pepe Costa,1961-03-13,Spagna
+1168,8178,Preparatore dei Portieri,Rudiger Vollborn,1963-02-12,Germania
+1169,9823,Direttore Generale,Paul Breitner,1951-09-05,Germania
+1170,9823,Osservatore,Wolfgang Grobe,1956-06-25,Germania
+1171,9823,Fisioterapista,Stephan Weickert,1971-11-21,Germania
+1172,8226,Presidente,Dietmar Hopp,1940-04-26,Germania
+1173,9906,Capo Allenatore Primavera,Jose Maria Villalon,1958-09-12,Spagna
+1174,8634,Preparatore Atletico,Rafel Pol,1987-01-13,Spagna
+1175,8634,Capo Allenatore Primavera,Ricard Pruna,1965-02-26,Spagna
+1176,9823,Fisioterapista,Gianni Bianchi,1965-02-24,Italia
+1177,9823,Capo Fisioterapista,Helmut Erhard,1972-01-13,Germania
+1178,9789,Capo Osservatore,Sven Mislintat,1972-11-05,Germania
+1179,8634,Manager,Luis Enrique,1970-05-08,Spagna
+1180,8302,Direttore Sportivo,Monchi,1968-09-20,Spagna
+1181,9823,Direttore Generale,Franz Beckenbauer,1945-09-11,Germania
+1182,9823,Responsabile Settore Giovanile,Wolfgang Dremmler,1954-07-12,Germania
+1183,10205,Direttore Esecutivo,Jose Manuel Llaneza,1948-07-20,Spagna
+1184,9789,General Manager,Hans- Joachim Watzke,1959-06-21,Germania
+1185,9823,Capo Allenatore Primavera,Volker Braun,1973-07-05,Germania
+1186,9823,Assistente Manager,Hermann Gerland,1954-06-04,Germania
+1187,9823,Direttore Esecutivo,Karl Hopfner,1952-08-28,Germania
+1188,8634,Direttore Generale,Ariedo Braida,1946-04-21,Italia
+1189,9906,Manager,Diego Simeone,1970-04-28,Argentina
+1190,9823,Manager,Carlo Ancelotti,1959-06-10,Italia
+1191,9823,Direttore Generale,Uli Hoeneb,1952-01-05,Germania
+1192,9823,Presidente,Karl- Heinz Rummenigge,1955-09-25,Germania

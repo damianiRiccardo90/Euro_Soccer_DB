@@ -1,0 +1,117 @@
+Campionato,Squadra,Punti,P_Vinte,P_Pareggiate,P_Perse,G_Fatti,G_Subiti,Diff_Reti
+Bundesliga_1,FC Bayern Munich,88,28,4,2,80,17,63
+Bundesliga_1,Borussia Dortmund,78,24,6,4,82,34,48
+Bundesliga_1,Bayer 04 Leverkusen,60,18,6,10,56,40,16
+Bundesliga_1,Borussia Mönchengladbach,55,17,4,13,67,50,17
+Bundesliga_1,FC Schalke 04,52,15,7,12,51,49,2
+Bundesliga_1,Hertha BSC Berlin,50,14,8,12,42,42,0
+Bundesliga_1,1. FSV Mainz 05,50,14,8,12,46,42,4
+Bundesliga_1,VfL Wolfsburg,45,12,9,13,47,49,-2
+Bundesliga_1,1. FC Köln,43,10,13,11,38,42,-4
+Bundesliga_1,Hamburger SV,41,11,8,15,40,46,-6
+Bundesliga_1,FC Ingolstadt 04,40,10,10,14,33,42,-9
+Bundesliga_1,FC Augsburg,38,9,11,14,42,52,-10
+Bundesliga_1,SV Werder Bremen,38,10,8,16,50,65,-15
+Bundesliga_1,SV Darmstadt 98,38,9,11,14,38,53,-15
+Bundesliga_1,TSG 1899 Hoffenheim,37,9,10,15,39,54,-15
+Bundesliga_1,Eintracht Frankfurt,36,9,9,16,34,52,-18
+Bundesliga_1,VfB Stuttgart,33,9,6,19,50,75,-25
+Bundesliga_1,Hannover 96,25,7,4,23,31,62,-31
+Eredivisie,PSV,84,26,6,2,88,32,56
+Eredivisie,Ajax,82,25,7,2,81,21,60
+Eredivisie,Feyenoord,63,19,6,9,62,40,22
+Eredivisie,AZ,59,18,5,11,70,53,17
+Eredivisie,FC Utrecht,53,15,8,11,57,48,9
+Eredivisie,Heracles Almelo,51,14,9,11,47,49,-2
+Eredivisie,FC Groningen,50,14,8,12,41,48,-7
+Eredivisie,PEC Zwolle,48,14,6,14,56,54,2
+Eredivisie,N.E.C.,46,13,7,14,37,42,-5
+Eredivisie,Vitesse,46,12,10,12,55,38,17
+Eredivisie,ADO Den Haag,43,10,13,11,48,49,-1
+Eredivisie,FC Twente,43,12,7,15,49,64,-15
+Eredivisie,SC Heerenveen,42,11,9,14,46,61,-15
+Eredivisie,Roda JC Kerkrade,34,8,10,16,34,55,-21
+Eredivisie,Excelsior,30,7,9,18,34,60,-26
+Eredivisie,Willem II,29,6,11,17,35,53,-18
+Eredivisie,De Graafschap,23,5,8,21,39,66,-27
+Eredivisie,SC Cambuur,18,3,9,22,33,79,-46
+Liga_BBVA,FC Barcelona,91,29,4,5,112,29,83
+Liga_BBVA,Real Madrid,90,28,6,4,110,34,76
+Liga_BBVA,Atlético Madrid,88,28,4,6,63,18,45
+Liga_BBVA,Villarreal CF,64,18,10,10,44,35,9
+Liga_BBVA,Athletic Bilbao,62,18,8,12,58,45,13
+Liga_BBVA,RC Celta de Vigo,60,17,9,12,51,59,-8
+Liga_BBVA,Sevilla FC,52,14,10,14,51,50,1
+Liga_BBVA,Málaga CF,48,12,12,14,38,35,3
+Liga_BBVA,Real Sociedad,48,13,9,16,45,48,-3
+Liga_BBVA,Real Betis Balompié,45,11,12,15,34,52,-18
+Liga_BBVA,Valencia CF,44,11,11,16,46,48,-2
+Liga_BBVA,UD Las Palmas,44,12,8,18,45,53,-8
+Liga_BBVA,RCD Espanyol,43,12,7,19,40,74,-34
+Liga_BBVA,SD Eibar,43,11,10,17,49,61,-12
+Liga_BBVA,RC Deportivo de La Coruña,42,8,18,12,45,61,-16
+Liga_BBVA,Granada CF,39,10,9,19,46,69,-23
+Liga_BBVA,Real Sporting de Gijón,39,10,9,19,40,62,-22
+Liga_BBVA,Rayo Vallecano,38,9,11,18,52,73,-21
+Liga_BBVA,Getafe CF,36,9,9,20,37,67,-30
+Liga_BBVA,Levante UD,32,8,8,22,37,70,-33
+Ligue_1,Paris Saint-Germain,96,30,6,2,102,19,83
+Ligue_1,AS Monaco,65,17,14,7,57,50,7
+Ligue_1,Olympique Lyonnais,65,19,8,11,67,43,24
+Ligue_1,OGC Nice,63,18,9,11,58,41,17
+Ligue_1,LOSC Lille,60,15,15,8,39,27,12
+Ligue_1,AS Saint-Étienne,58,17,7,14,42,37,5
+Ligue_1,SM Caen,54,16,6,16,39,52,-13
+Ligue_1,Stade Rennais FC,52,13,13,12,52,54,-2
+Ligue_1,Angers SCO,50,13,11,14,40,38,2
+Ligue_1,SC Bastia,50,14,8,16,36,42,-6
+Ligue_1,Girondins de Bordeaux,50,12,14,12,50,57,-7
+Ligue_1,Montpellier Hérault SC,49,14,7,17,49,47,2
+Ligue_1,FC Nantes,48,12,12,14,33,44,-11
+Ligue_1,Olympique de Marseille,48,10,18,10,48,42,6
+Ligue_1,FC Lorient,46,11,13,14,47,58,-11
+Ligue_1,En Avant de Guingamp,44,11,11,16,47,56,-9
+Ligue_1,Toulouse FC,40,9,13,16,45,55,-10
+Ligue_1,Stade de Reims,39,10,9,19,44,57,-13
+Ligue_1,GFC Ajaccio,37,8,13,17,37,58,-21
+Ligue_1,ES Troyes AC,18,3,9,26,28,83,-55
+Premier_League,Leicester City,81,23,12,3,68,36,32
+Premier_League,Arsenal,71,20,11,7,65,36,29
+Premier_League,Tottenham Hotspur,70,19,13,6,69,35,34
+Premier_League,Manchester City,66,19,9,10,71,41,30
+Premier_League,Manchester United,66,19,9,10,49,35,14
+Premier_League,Southampton,63,18,9,11,59,41,18
+Premier_League,West Ham United,62,16,14,8,65,51,14
+Premier_League,Liverpool,60,16,12,10,63,50,13
+Premier_League,Stoke City,51,14,9,15,41,55,-14
+Premier_League,Chelsea,50,12,14,12,59,53,6
+Premier_League,Everton,47,11,14,13,59,55,4
+Premier_League,Swansea City,47,12,11,15,42,52,-10
+Premier_League,Watford,45,12,9,17,40,50,-10
+Premier_League,West Bromwich Albion,43,10,13,15,34,48,-14
+Premier_League,Bournemouth,42,11,9,18,45,67,-22
+Premier_League,Crystal Palace,42,11,9,18,39,51,-12
+Premier_League,Sunderland,39,9,12,17,48,62,-14
+Premier_League,Newcastle United,37,9,10,19,44,65,-21
+Premier_League,Norwich City,34,9,7,22,39,67,-28
+Premier_League,Aston Villa,17,3,8,27,27,76,-49
+Serie_A,Juventus,91,29,4,5,75,20,55
+Serie_A,Napoli,82,25,7,6,80,32,48
+Serie_A,AS Roma,80,23,11,4,83,41,42
+Serie_A,Inter,67,20,7,11,50,38,12
+Serie_A,Fiorentina,64,18,10,10,60,42,18
+Serie_A,Sassuolo,61,16,13,9,49,40,9
+Serie_A,Milan,57,15,12,11,49,43,6
+Serie_A,Lazio,54,15,9,14,52,52,0
+Serie_A,Chievo,50,13,11,14,43,45,-2
+Serie_A,Genoa,46,13,7,18,45,48,-3
+Serie_A,Empoli,46,12,10,16,40,49,-9
+Serie_A,Atalanta,45,11,12,15,41,47,-6
+Serie_A,Torino,45,12,9,17,52,55,-3
+Serie_A,Bologna,42,11,9,18,33,45,-12
+Serie_A,Sampdoria,40,10,10,18,48,61,-13
+Serie_A,Udinese,39,10,9,19,35,60,-25
+Serie_A,Palermo,39,10,9,19,38,65,-27
+Serie_A,Carpi,38,9,11,18,37,57,-20
+Serie_A,Frosinone,31,8,7,23,35,76,-41
+Serie_A,Hellas Verona,28,5,13,20,34,63,-29
